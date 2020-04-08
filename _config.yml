@@ -16,7 +16,8 @@
 # Name of website
 title: Fechten Hamm
 
-navbar-col: LightCoral
+# navbar-col: LightCoral
+navbar-text-col: red
 
 # Short description of your site
 description: Fechten der schönste Sport der Welt
