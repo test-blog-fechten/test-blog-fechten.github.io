@@ -16,7 +16,8 @@
 # Name of website
 title: Fechten Hamm (TEST!)
 
-# navbar-col: LightCoral
+# Variablen to set for extra optic.
+navbar-col: black
 navbar-text-col: red
 
 # Short description of your site
@@ -27,8 +28,6 @@ description: Fechten der schönste Sport der Welt
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
-
-site.navbar-text-col: "red"
 
 # List of links in the navigation bar
 navbar-links:
@@ -50,20 +49,20 @@ author:
   github: blog-fechten
    
 # Select which links to show in the footer
-footer-links-active:
-  rss: false
-  facebook: true
-  email: true
-  twitter: true
-  github: true
-  linkedin: false
-  stackoverflow: false
+#footer-links-active:
+#  rss: false
+#  facebook: true
+#  email: true
+#  twitter: true
+#  github: true
+#  linkedin: false
+#  stackoverflow: false
   
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  google: false
+#  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -76,7 +75,7 @@ share-links-active:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 30
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-59820529-1"
@@ -131,13 +130,7 @@ exclude:
   - Gemfile.lock
   - Vagrantfile
 
-
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-
-#test
-
-theme: jekyll-theme-cayman
+  
