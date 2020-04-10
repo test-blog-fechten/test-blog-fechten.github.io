@@ -29,7 +29,9 @@ layout: search
 
 <p>
 
+<!--- Does not work until google has visit the site!
 <form method="get" action="http://www.google.com/search" target="_blank">
 <input type="hidden" name="sitesearch" value="blog,fechten-hamm.de" />
 <input type="text" name="q" maxlength="255" placeholder="Search with Google" />
 </form>
+--->
