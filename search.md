@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Motorik fürs Fechten
+title: Suchseite hilfs Seite
 ---
 
 Commig soon.
 
-Link auf [Seite:](search.html)
+Link auf [Seite:](./search.html)
