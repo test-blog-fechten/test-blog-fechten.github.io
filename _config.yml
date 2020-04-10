@@ -39,7 +39,7 @@ navbar-links:
     - Spiele: "games"
     - Checklisten: "check"
   TuS Hamm: "http://fechten-hamm.de"
-  Suche <i class="fa fa-search"></i>: "/search.html"
+  Suche <i class="fa fa-search"></i>: "search.html"
   
 # --- Footer options --- #
 
