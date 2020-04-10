@@ -2,7 +2,7 @@
 layout: search
 ---
 <form action="index.html" method="get">
-  <label for="search-box">Search only in Blog?</label>
+  <label for="search-box">Suche im Blog:</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
 </form>
