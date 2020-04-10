@@ -25,3 +25,8 @@ layout: search
 </script>
 <script src="{{ site.baseurl }}/js/lunr.min.js"></script>
 <script src="{{ site.baseurl }}/js/search.js"></script>
+
+<form method="get" action="http://www.google.com/search" target="_blank">
+<input type="hidden" name="sitesearch" value="ibkc-carrosserie.nl" />
+<input type="text" name="q" maxlength="255" placeholder="Search with Google" />
+</form>
