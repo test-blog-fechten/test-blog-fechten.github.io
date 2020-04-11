@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fechtschritte 
+tags: [TRP]
 ---
 
 * Schritte vor und zurück

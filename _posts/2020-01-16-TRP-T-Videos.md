@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TPR Videos
-
+tags: [TRP]
 ---
 
 * [Degen - Epee](https://www.youtube.com/watch?v=88mBQ2u2Wb0)

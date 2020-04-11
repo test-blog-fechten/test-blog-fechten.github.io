@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Korrekte Fechtstellung / korrekte Waffenhaltung
+tags: [TRP]
 ---
 
 #### Wenn der Kampfrichter Stellung ruft sollte diese eingenommen werden.

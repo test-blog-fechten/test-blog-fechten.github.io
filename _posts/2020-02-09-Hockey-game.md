@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hockey mit begrenztem Material
+tags: [Spiele]
 ---
 
 Wir spielen mal wieder Floorball/Unihockey. Da wir aber mehr Bewegung, Intervall Training ... integrieren wollen 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Seilspringen rund laufen lassen. 
+tags: [Spiele]
 ---
 
 Ein immer wieder gern gespielte Übung. Ist so beliebt das es auch als Belohnung geeignet ist.

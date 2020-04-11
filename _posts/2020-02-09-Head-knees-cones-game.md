@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Head, Shoulders, Knees & Cones
+tags: [Motorik,Reaktion,Spiele]
 ---
 
 Heute ein lustiges Spiel für uns. Wir legen auf den Cone(Hütchen) noch einen Tennisball! 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Umgehungen (TRP/) 
+tags: [TRP]
 ---
 
 #### V Bewegung mit den Fingern üben. z.B. am Stoßkissen. Mit den Fingern arbeiten.

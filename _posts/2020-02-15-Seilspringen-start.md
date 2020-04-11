@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Seilspringen 
+tags: [Motorik,Spiele]
 ---
 
 Das klassische Seilspringen ist ein super Koordinations und Rhythmus Übung.

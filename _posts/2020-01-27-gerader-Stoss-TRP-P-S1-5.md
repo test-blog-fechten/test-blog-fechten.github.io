@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gerader Stoß
+tags: [TRP]
 ---
 
 Stoßbewegungen Gerader Stoß: (TRP/)
