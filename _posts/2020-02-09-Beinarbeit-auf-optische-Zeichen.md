@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beinarbeit auf optische Zeichen
+tags: [Beinarbeit]
 ---
 
 Trainer oder Fechter lässt Mensur halten und bewegt sich, bei bestimmten Bewegungen machen Fechter eine festgelegte Aktion.
