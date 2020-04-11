@@ -22,7 +22,7 @@ subtitle: Ein schöner Sport.
     </p>
   
     <div class="post-entry">
-      {{ post.content | truncatewords: site.excerpt_length | strip_html | xml_escape}}
+      {{ post.content | truncatewords: site.excerpt_length | strip_html | xml_escape }}
 	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read More</a>
     </div>
   
