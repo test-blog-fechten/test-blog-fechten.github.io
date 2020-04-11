@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Spiegel
-tags: [Fechten]
-tags: [Beinarbeit]
+tags: [Fechten,Beinarbeit]
 ---
 
 #### Beinarbeit auf Ansagen. Wenn die Hand oben ist muss die Bewegung gespiegelt werden. 
