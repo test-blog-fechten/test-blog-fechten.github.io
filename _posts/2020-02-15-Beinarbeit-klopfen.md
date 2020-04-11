@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beinarbeit mit Klopfen.
+tags: [Beinarbeit]
 ---
 
 #### Ein einfaches Spiel 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Schrittfolgen ein Spiel und Beinarbeit.
+tags: [Spiele,Beinarbeit]
 ---
 
 #### Das klassische Spiel "Ich packe meinen Koffer und packe eine schritt vor ein...."
