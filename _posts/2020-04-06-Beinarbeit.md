@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Mehr Training für Zuhause
-tags: [Beinarbeit]
-tags: [Home]
+tags: [Beinarbeit] [Home]
 ---
 
 # Noch mehr Beinarbeit für Zuhause aus dem Netz
