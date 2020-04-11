@@ -4,13 +4,13 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-#url: "http://username.github.io"
-#baseurl: "test-blog-fechten"
+# url: "https://blog.fechten-hamm.de/"
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 url: "https://blog.fechten-hamm.de/test-blog-fechten/"
 baseurl: "/test-blog-fechten"
-
+# please comment them if you are using it as user page. 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
@@ -75,7 +75,7 @@ author:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 30
+excerpt_length: 10
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-59820529-1"
