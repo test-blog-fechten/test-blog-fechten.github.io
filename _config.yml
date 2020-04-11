@@ -76,7 +76,8 @@ author:
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
 
-excerpt_length: 50 / seams not working because is not uesed in index.html
+excerpt_length: 5 
+# seams not working because is not uesed in index.html
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-59820529-1"
