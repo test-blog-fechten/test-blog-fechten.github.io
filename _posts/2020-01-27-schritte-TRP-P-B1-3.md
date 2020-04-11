@@ -17,13 +17,13 @@ title: Fechtschritte
 [Video](https://www.youtube.com/watch?v=NrOeO2NflyA)
 
 # Schritte vor und zurück
-* Schrittlängen varriieren
+* Schrittlängen variieren
 * Rhythmisierung Doppelschritt 
   * schnell -- schnell
-  * schnell -- langsamm 
-  * langsamm -- schnell
-  * langsamm -- langsamm
+  * schnell -- langsam
+  * langsam -- schnell
+  * langsam -- langsamm
 
-# Schrittfolgen nach Vorlagen auf Papier durchführen. Fehlerfrei wie beim Gummitwist.
+# Schrittfolgen nach Vorlagen auf Papier durchführen. Möglichst fehlerfrei wie beim Gummitwist.
 
-# Spiel ich packe meinen Koffer und packe einen schnellen kleinen Doppelschritt hinein..... 
+# Spiel: Ich packe meinen Koffer und packe einen schnellen kleinen Doppelschritt ..... 
