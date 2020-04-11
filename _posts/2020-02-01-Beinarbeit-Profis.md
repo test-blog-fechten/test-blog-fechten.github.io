@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Beinarbeit der Profis
-tags: [Fechten]
-tags: [Beinarbeit]
+tags: [Fechten,Beinarbeit]
 ---
 
 Bouncen, Schritte, Sliden alles im Mix. Sie nutzen die komplette Palette einschlieslich Ducken und Flash.
