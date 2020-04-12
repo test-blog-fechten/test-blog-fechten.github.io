@@ -24,3 +24,5 @@ Und noch einige Kinder YoYos die nur für ganz am Anfang und dann auch nicht wir
 Ich habe verschiedene Teller und Stäbe, bisher klappt es bei mir nur mit dem "Henrys Jonglierteller inkl. Stab"
 Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auch wenn man noch etwas falsch macht.
 
+## Anmerkungen
+[Gefunden im Netz:](https://www.youtube.com/watch?v=k6nyFvn1smc)
