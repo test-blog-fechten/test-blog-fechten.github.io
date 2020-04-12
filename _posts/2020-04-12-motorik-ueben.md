@@ -14,9 +14,10 @@ Ein einfacher Plastikball ist glatter als der Basketball und lässt sich damit s
 ## Etwas mit dem Diabolo spielen. 
 [Gefunden im Netz:](https://www.youtube.com/watch?v=1-2e9Da8C3E)
 
-## Etwas mit dem JoJo spielen. 
+## Etwas mit dem YoYo spielen. 
 [Gefunden im Netz:](https://www.youtube.com/watch?v=UxTiFFkEkIs)
-Ein richtiger JoJo aus dem Fachhandel ist schon nötig.  
+Ein richtiger YoYo aus dem Fachhandel ist schon nötig. Ich habe 2 von Henrys damit geht es gut.  
+Und noch einige Kinder YoYos die nur für ganz am Anfang und dann auch nicht wirklich geeignet sind.   
 
 ## Teller jonglieren
 [Gefunden im Netz:](https://www.youtube.com/watch?v=hOA7SYkHB_k)
