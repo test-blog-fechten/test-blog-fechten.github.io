@@ -26,10 +26,13 @@ Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auc
 
 # Das habe ich dann auch noch ein wenig wiederholt.
 ## Seil springen
+
 ## Ball jonglieren
 [Gefunden im Netz:](https://www.youtube.com/watch?v=3V6D2PyFEKM)
 ## Flowersticks
+[Gefunden im Netz:](https://www.youtube.com/watch?v=QhFfFgYo6mg)
 ## Kendama
+[Gefunden im Netz:](https://www.youtube.com/watch?v=3mgtwewEb4I)
 
 ## Anmerkungen
 [Gefunden im Netz:](https://www.youtube.com/watch?v=k6nyFvn1smc)
