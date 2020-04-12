@@ -77,8 +77,8 @@ author:
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
 
-excerpt_length: 5 
-# seams not working because is not uesed in index.html
+excerpt_length: 8
+# How many words are shown in the post overview.
 
 # Fill in your Google Analytics ID to track your website using GA
 # google_analytics: "UA-59820529-1"
@@ -97,7 +97,8 @@ timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 5
+# How many posts are on the site before a split to the next side. 
 
 kramdown:
   input: GFM
