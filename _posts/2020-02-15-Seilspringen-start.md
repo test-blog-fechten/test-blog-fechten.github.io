@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Seilspringen 
-tags: [Motorik,Spiele]
+tags: [Motorik,Spiele,Ausdauer,Aufwärmen]
 ---
 
 Das klassische Seilspringen ist ein super Koordinations und Rhythmus Übung.
+Es bietet sich auch an um sich aufzuwärmen. z.B. vor dem Wettkampf in einer vollen Fechthalle.
+
+#### Ein Sprungseil gehört in jede Fechttasche :-)
 
 Anfänger: [Video](https://www.youtube.com/watch?v=IwT42eIQswE)
 
