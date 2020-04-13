@@ -43,6 +43,8 @@ Mit der linken Hand geht noch gar nix.
 [Gefunden im Netz:](https://www.youtube.com/watch?v=3mgtwewEb4I)
 Mit der linken Hand geht es auch ein bischen. Spike klappt noch gar nicht.
 
+[Man kann auch mal andere Griffe probieren:](https://www.youtube.com/watch?v=4EKZIV2qDQc)
+
 ### Anmerkungen
 Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
 [Gefunden im Netz:](https://www.youtube.com/watch?v=k6nyFvn1smc)
