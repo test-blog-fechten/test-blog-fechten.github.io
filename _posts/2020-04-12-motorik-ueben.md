@@ -51,5 +51,7 @@ Balancieren mit dem Kendama: Auf der Kugel (oder auf den Kanten der Teller ... i
 
 ### Anmerkungen
 Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
-Deswegen üben wir auch mit unterschiedlichstem Material und auch mit der schwächeren Hand.
-[Gefunden im Netz:](https://www.youtube.com/watch?v=k6nyFvn1smc)
+Deswegen üben wir auch mit unterschiedlichstem Material sowie mit der schwächeren Hand. Wir hoffen das die Motivation durch verschiedene Techniken und variationen 
+im Material länger aufrecht gehalten werden kann. Außerdem kommt es öfter dazu das der eine es mit dem diesem der andere aber mit anderem Material schafft. 
+Natürlich suchen wir immer nach dem besten Material für die Anfänger damit sich schnell der erste Erfolg einstellt.  
+[Gefunden im Netz:](https://www.youtube.com/watch?v=T5zbk7FmY_0) [und](https://www.youtube.com/watch?v=k6nyFvn1smc) 
