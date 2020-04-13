@@ -18,7 +18,7 @@ _Mit der rechten Hand geht es ein paar Sekunden. Mit der linken Hand geht es noc
 ### Etwas mit dem Diabolo spielen. 
 [Gefunden im Netz:](https://www.youtube.com/watch?v=1-2e9Da8C3E)
 
-_Einfaches antreiben funktioniert. Für mehr muss ich wohl im Garten spielen. :-)_ 
+_Einfaches antreiben funktioniert. Für mehr muss ich wohl im Garten spielen._ :-)
 
 ### Etwas mit dem YoYo spielen. 
 [Gefunden im Netz:](https://www.youtube.com/watch?v=UxTiFFkEkIs)
@@ -29,6 +29,7 @@ _Ja ist soweit OK. Werfen, Sleeper, Fußstart auch mit der linken Hand kein Prob
 
 ### Teller jonglieren
 [Gefunden im Netz:](https://www.youtube.com/watch?v=hOA7SYkHB_k)
+
 _Ich habe verschiedene Teller und Stäbe, bisher klappt es bei mir nur mit dem "Henrys Jonglierteller inkl. Stab"
 Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auch wenn man noch etwas falsch macht.
 
