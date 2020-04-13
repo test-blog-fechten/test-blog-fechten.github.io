@@ -61,7 +61,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Am {{ page.date | date: "%d.%m.%Y" }} veröffentlicht {% if page.author %}von: {% if page.email %}e-mail:<a href = "mailto:{{ page.email }}">{% endif %} {{ page.author }}{% if page.email %}</a>{% endif %} {% endif %}</span>
+		  <span class="post-meta">Am {{ page.date | date: "%d.%m.%Y" }} veröffentlicht {% if page.author %}von: {% if page.email %}<a href = "mailto:{{ page.email }}">{% endif %} {{ page.author }}{% if page.email %}</a>{% endif %} {% endif %}</span>
 		  {% endif %}
         </div>
       </div>
