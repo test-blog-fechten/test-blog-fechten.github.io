@@ -18,7 +18,7 @@ subtitle: Ein schöner Sport.
     </a>
 
     <p class="post-meta">
-      Veröffentlicht am {{ post.date | date: "%d.%m.%Y" }} von: {{ post.author }}
+      Veröffentlicht am {{ post.date | date: "%d.%m.%Y" }} {% if post.author %}von: {{ post.author }}{% endif %}
     </p>
   
     <div class="post-entry">
