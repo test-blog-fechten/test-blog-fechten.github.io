@@ -41,7 +41,7 @@ Mit der linken Hand geht noch gar nix.
 [Gefunden im Netz:](https://www.youtube.com/watch?v=QhFfFgYo6mg)
 ### Kendama
 [Gefunden im Netz:](https://www.youtube.com/watch?v=3mgtwewEb4I)
-Mit der linken Hand geht auch.
+Mit der linken Hand geht es auch ein bischen. Spike klappt noch gar nicht.
 
 ### Anmerkungen
 Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
