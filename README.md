@@ -10,4 +10,6 @@ edit _config.yml
 
 Do not move this readme!
 
+May be the new improvements author,email ..... does not work in all cases big picture ....
+
 .....
