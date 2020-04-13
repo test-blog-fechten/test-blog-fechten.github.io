@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motorik üben 
-tags: [Motorik]
+tags: [Motorik,zuHause]
 author: Andreas Schockenhoff 
 ---
 ## In den freien Tagen um Ostern habe ich mal wieder etwas ausprobiert.
