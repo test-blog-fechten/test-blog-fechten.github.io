@@ -41,7 +41,7 @@ Mit der linken Hand geht noch gar nix.
 [Gefunden im Netz:](https://www.youtube.com/watch?v=3V6D2PyFEKM)
 ### Flowersticks
 [Gefunden im Netz:](https://www.youtube.com/watch?v=QhFfFgYo6mg)
-### Kendama
+### Kendama (Schwertkugel)
 [Gefunden im Netz:](https://www.youtube.com/watch?v=3mgtwewEb4I)
 Mit der linken Hand geht es auch ein bischen. Spike klappt noch gar nicht.
 
