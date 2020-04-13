@@ -45,7 +45,7 @@ Mit der linken Hand geht es auch ein bischen. Spike klappt noch gar nicht.
 
 [Man kann auch mal andere Griffe probieren:](https://www.youtube.com/watch?v=4EKZIV2qDQc)
 
-Balancieren mit dem Kendama: Auf den Cups ... im Spike Griff, mit Fechtschritten ... [das Einhorn](https://www.youtube.com/watch?v=D5mK-DmeCwk) so bei 6:45 :-)
+Balancieren mit dem Kendama: Auf der Kugel (oder auf den Kanten der Teller ... im Spike Griff, mit Fechtschritten ... [das Einhorn](https://www.youtube.com/watch?v=D5mK-DmeCwk) so bei 6:45 :-)
 
 ### Anmerkungen
 Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
