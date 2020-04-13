@@ -2,7 +2,7 @@
 layout: post
 title: Motorik üben 
 tags: [Motorik,zuHause]
-author: Andreas Schockenhoff / ASchockenhoff@fechten-hamm.de
+author: Andreas Schockenhoff / mailto:ASchockenhoff@fechten-hamm.de
 ---
 ## In den freien Tagen um Ostern habe ich mal wieder etwas ausprobiert.
 
