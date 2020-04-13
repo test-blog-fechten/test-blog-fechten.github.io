@@ -32,12 +32,12 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Tags: "tags" 
-  Training:
-    - Motorik: "mot"
-    - Technik: "technik"
-    - Beinarbeit: "footwork" 
-    - Spiele: "games"
-    - Checklisten: "check"
+#  Training:
+#    - Motorik: "mot"
+#    - Technik: "technik"
+#    - Beinarbeit: "footwork" 
+#    - Spiele: "games"
+#    - Checklisten: "check"
   TuS Hamm: "http://fechten-hamm.de"
   Suche <i class="fa fa-search"></i>: "search"
 # --- Footer options --- #
