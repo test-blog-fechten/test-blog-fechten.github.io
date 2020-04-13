@@ -31,9 +31,9 @@ _Ja ist soweit OK. Werfen, Sleeper, Fußstart auch mit der linken Hand kein Prob
 [Gefunden im Netz:](https://www.youtube.com/watch?v=hOA7SYkHB_k)
 
 _Ich habe verschiedene Teller und Stäbe, bisher klappt es bei mir nur mit dem "Henrys Jonglierteller inkl. Stab"
-Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auch wenn man noch etwas falsch macht.
+Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auch wenn man noch etwas falsch macht._
 
-Mit der linken Hand geht noch gar nix._
+_Mit der linken Hand geht noch gar nix._
 
 ## Das habe ich dann auch noch ein wenig wiederholt.
 ### Seil springen
