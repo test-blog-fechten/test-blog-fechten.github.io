@@ -2,7 +2,7 @@
 layout: post
 title: Motorik üben 
 tags: [Motorik,zuHause]
-author: Andreas Schockenhoff 
+author: Andreas Schockenhoff / ASchockenhoff@fechten-hamm.de
 ---
 ## In den freien Tagen um Ostern habe ich mal wieder etwas ausprobiert.
 
@@ -50,4 +50,5 @@ Balancieren mit dem Kendama: Auf der Kugel (oder auf den Kanten der Teller ... i
 
 ### Anmerkungen
 Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
+Deswegen üben wir auch mit unterschiedlichstem Material und auch mit der schwächeren Hand.
 [Gefunden im Netz:](https://www.youtube.com/watch?v=k6nyFvn1smc)
