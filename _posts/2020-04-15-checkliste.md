@@ -5,9 +5,7 @@ tags: [TRP,SuchtTag]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
-
 <!--- Tags Ideen Degen,Checklisten --->
-## Checkliste Degenfechter 
 * Maske, Jacke, Plaston, Fechthose, Turnschuhe, Fechtsocken, Handschuh, Brustschutz
 * Trainigshose, Trainigsjacke
 * Getränke, Essen

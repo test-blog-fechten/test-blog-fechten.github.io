@@ -8,7 +8,6 @@ email: ASchockenhoff@fechten-hamm.de
 
 <!--- Tags Ideen Degen,Checklisten --->
 
-## Checkliste Eltern:
 * Getränke, Essen
 * Auch die Checkliste Fechter(Kind) falls nötig prüfen.
 * Fahrt zum Tunierort organisieren. (Ausschreibung mitnehmen)
