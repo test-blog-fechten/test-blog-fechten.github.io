@@ -1,13 +1,11 @@
 ---
 layout: post
-title: YoYo spielen 
+title: Checkliste Degenfechter 
 tags: [TRP,SuchtTag] <!--- Degen,Checklisten --->
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
-### Checkliste Degenfechter 
-
-# Checkliste Fechter:
+## Checkliste Degenfechter 
 * Maske, Jacke, Plaston, Fechthose, Turnschuhe, Fechtsocken, Handschuh, Brustschutz
 * Trainigshose, Trainigsjacke
 * Getränke, Essen
