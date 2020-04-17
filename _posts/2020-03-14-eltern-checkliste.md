@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checkliste Eltern  
-tags: [checkliste] 
+tags: [Checkliste] 
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
