@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checkliste Degenfechter 
-tags: [TRP,SuchtTag] 
+tags: [TRP,Checkliste] 
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
