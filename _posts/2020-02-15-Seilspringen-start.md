@@ -23,3 +23,5 @@ Wir bilden Gruppen mit verschiedenen Übungen immer bis der letzte einen Fehler 
 * Normal Springen / Doppel Sprung / direkt springen.
 * Ein Bein / In Fechtstellung .....
 * Criss Cross Meisterschaft!
+
+[Vorteile Seilspringen engl.](https://www.youtube.com/watch?v=iE6DzOIhYjM)
