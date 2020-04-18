@@ -5,7 +5,7 @@ tags: [Motorik,zuHause,Outdoor]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
-Die Idee ist das die Kinder bei vielen Sachen mitmachen können und neue Sachen schnell erlernen. 
+Die Idee ist das die Kinder bei vielen Sachen, die ihnen so zufällig begegnen, mitmachen können und neue Sachen schnell erlernen. 
 
 Hier geht es mehr um Reaktion und Anpassung und nicht Perfektion.
 
