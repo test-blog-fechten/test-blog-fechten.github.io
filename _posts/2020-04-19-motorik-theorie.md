@@ -16,4 +16,7 @@ Wir hoffen das die Motivation durch verschiedene Techniken und variationen im Ma
 Außerdem kommt es öfter dazu das der eine Mensch es mit dem diesem Material, der andere Mensch es aber mit anderem Material schafft.
  
 Natürlich suchen wir immer nach dem besten Material für die Anfänger, damit sich schnell der erste Erfolg einstellt.  
-[Gefunden im Netz:](https://www.youtube.com/watch?v=T5zbk7FmY_0) [und](https://www.youtube.com/watch?v=k6nyFvn1smc) 
+[Gefunden im Netz:](https://www.youtube.com/watch?v=T5zbk7FmY_0) und [und](https://www.youtube.com/watch?v=k6nyFvn1smc) .... 
+
+Unser Training hat zum Ziel, bessere Voraussetzungen für die Lösung unterschiedlicher Aufgaben im technischen und 
+taktischen Bereich des Sports zu schaffen.
