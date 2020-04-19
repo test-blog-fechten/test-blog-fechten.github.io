@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Debug Tags all!!
-tags: [Aufwärmen,Ausdauer,Beinarbeit,Fechten,Motorik,Reaktion,Spiele,fechten,TRP,zuHause,Spiel_testen,Spiele_beliebt,Outdoor,Checkliste]
+title: Neu!
+tags: [Aufwärmen,Ausdauer,Beinarbeit,Fechten,Motorik,Reaktion,Spiele,TRP,zuHause,Spiel_testen,Spiele_beliebt,Outdoor,Checkliste]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
@@ -13,6 +13,7 @@ email: ASchockenhoff@fechten-hamm.de
 #### Kleine Überschriften
 
 [Ein Link](http://fechten-hamm.de)
+[Link auf anderen Blog Beitrag:](../2020-02-15-Seilspringen-start) 
 
 * Aufzählung
 * mehr
