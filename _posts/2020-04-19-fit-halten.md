@@ -7,7 +7,7 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 Es beginnt mit dem Hula Hoop reifen kreisen lassen mit Fechtschritten. _OK klappt noch nicht! Dann Fechtschritte ohne Reifen_
 
-Seilspringen: 
+[Seilspringen:](../2020-02-15-Seilspringen-start) 
 * Locker springen zum Aufwärmen. 
 * Criss Cross zur Motorik Verbesserung.
 * Criss Cross auf Speed
@@ -15,4 +15,4 @@ Seilspringen:
 * Normale Sprünge > 70 zum Abschluss.
 * Etwas gehen und ausschütteln der Muskeln 
 
-Fertig für Heute -> Duschen. _10 km laufen hatte ich keine Lust_ :-)
+Fertig für Heute -> Duschen. _10 km laufen hatte ich keine Lust. Sonntag_ :-)
