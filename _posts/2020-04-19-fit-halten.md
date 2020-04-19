@@ -5,7 +5,7 @@ tags: [Aufwärmen,Ausdauer,Beinarbeit,Motorik,zuHause,Outdoor]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
-Es beginnt mit dem Hula Hoop reifen kreisen lassen mit Fechtschritten. _OK klappt noch nicht! Dann Fechtschritte ohne Reifen_
+Es beginnt mit dem [Hula Hoop](../2020-04-18-hulahoop) reifen kreisen lassen mit Fechtschritten. _OK klappt noch nicht! Dann Fechtschritte ohne Reifen_
 
 [Seilspringen:](../2020-02-15-Seilspringen-start) 
 * Locker springen zum Aufwärmen. 
