@@ -9,4 +9,4 @@ email: ASchockenhoff@fechten-hamm.de
 
 Alte Reifen müsste man besorgen. Es gehen natürlich auch Plastik Reifen. Zur Not auch Sprungseile.
 
-[siehe auch](2020-04-18-hulahop)
+[siehe auch](../2020-04-18-hulahop)
