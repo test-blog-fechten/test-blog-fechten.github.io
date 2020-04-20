@@ -6,9 +6,12 @@ layout: null
 
 /* --- General --- */
 
+@media only screen and (min-width: 768px) {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
+
+  font-size: 2vw;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -17,6 +20,22 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+}  
+
+body {
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 18px;
+
+  font-size: 2vw;
+  color: #404040;
+  position: relative;
+  background-color: {{ site.page-col }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+}
+
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -53,7 +72,6 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .main-content {
     padding-top: 130px;
-    font-size: 2vw;
   }
 }
 
