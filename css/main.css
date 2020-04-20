@@ -9,7 +9,7 @@ layout: null
 @media only screen and (min-width: 768px) {
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 2vw;
+  font-size: 1vw;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
