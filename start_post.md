@@ -17,3 +17,5 @@ email: ASchockenhoff@fechten-hamm.de
 
 * Aufzählung
 * mehr
+
+**Schickt mir eine einfach e-mail wenn Ihr wollt. Ich freue mich über nette Anmerkungen und Anregungen. Sachliche Kritik ist auch erwünscht!** 
