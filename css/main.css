@@ -6,21 +6,8 @@ layout: null
 
 /* --- General --- */
 
-@media only screen and (min-width: 768px) {
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.5vw;
-  color: #404040;
-  position: relative;
-  background-color: {{ site.page-col }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
-}
-}  
-
-body {
+  width: 100%;
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
