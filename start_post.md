@@ -7,12 +7,14 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 Tag 3 des @Home Trainings. Pause für Arme und Beine.
 
-### Aufwärmen:
-* [Hula Hoop](../2020-04-18-hulahoop) _war eine Katastrophe_
+### Ideen:
+* [Hula Hoop](../2020-04-18-hulahoop) 
+* YoYo spielen.
+* Diabolo spielen.
+* Ball auf Finger jonglieren.
 * [Koordination mit Max](https://www.youtube.com/watch?v=eybyxeBMsME)
-* [Beinarbeit Fechten mit Max und Matyas @Home](https://www.youtube.com/watch?v=2Nmycq2-c2c)  
-
-[Seil Springen](../2020-02-15-Seilspringen-start)
+* [Beinarbeit Fechten mit Max und Matyas @Home](https://www.youtube.com/watch?v=yemtMN96IJ4)  
+* [Seil Springen](../2020-02-15-Seilspringen-start)
 * langsam 30 * (2 * normal dann 1 * Criss Cross) funktioniert sehr gut.
 
 * Auslockern.
