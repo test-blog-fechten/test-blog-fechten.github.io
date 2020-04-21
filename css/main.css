@@ -355,7 +355,7 @@ footer .theme-by {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-entry-container {
-  display: inline-block;
+  display: absolute;
   width: 100%;
 }
 .post-entry {
