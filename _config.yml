@@ -38,8 +38,9 @@ navbar-links:
 #    - Beinarbeit: "footwork" 
 #    - Spiele: "games"
 #    - Checklisten: "check"
+  Über uns:"team"
   TuS Hamm: "http://fechten-hamm.de"
-  Suche <i class="fa fa-search"></i>: "search"
+  <i class="fa fa-search"></i>: "search"
 # --- Footer options --- #
 
 
