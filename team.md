@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Wir sind das Trainerteam der Fechtabteilung des TuS 59 Hamm. 
+## Wir sind das Trainerteam der Fechtabteilung des TuS 59 Hamm. 
 
 [Offizielle Seite](https://www.tus59hamm.de/unser-team/)
 
