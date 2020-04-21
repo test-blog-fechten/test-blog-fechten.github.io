@@ -23,3 +23,9 @@ Tag 3 des @Home Trainings. Pause für Arme und Beine.
 * Etwas dehnen
 
 **Schickt mir eine einfach e-mail wenn Ihr wollt. Ich freue mich über nette Anmerkungen und Anregungen. Sachliche Kritik ist auch erwünscht!** 
+
+* 1.5 km mini Runde.
+* 2.7 km Wehr vor der Brücke zurück.
+* 8 km Niederwerrieser Weg über Hauptstraße
+* 9 km beide Runden am Kanal lang
+* 10 km Runde am Kanal lang zusätzlich kleine Kurparkrunde. 
