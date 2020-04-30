@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YoYo spielen 
-tags: [Motorik,zuHause,t4]
+tags: [Motorik,zuHause,T4]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
