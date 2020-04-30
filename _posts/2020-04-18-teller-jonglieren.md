@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teller jonglieren 
-tags: [Motorik,zuHause]
+tags: [Motorik,zuHause,T4,T6]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
