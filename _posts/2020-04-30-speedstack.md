@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speedstacking
-tags: [Aufwärmen,Motorik,Reaktion,zuHause,T4]
+tags: [Aufwärmen,Motorik,Reaktion,zuHause,T1]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
