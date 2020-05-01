@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ball auf dem Finger jonglieren 
-tags: [Motorik,zuHause]
+tags: [Motorik,zuHause,T1]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
