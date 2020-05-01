@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hockey jonglieren
-tags: [Aufwärmen,Motorik,Reaktion,T4,T8]
+tags: [Aufwärmen,Motorik,Reaktion,T4,T6,T8]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
