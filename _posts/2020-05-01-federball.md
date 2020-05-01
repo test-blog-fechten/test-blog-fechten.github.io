@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Federball 
-tags: [Aufwärmen,Motorik,Reaktion,T4,T6]
+tags: [Aufwärmen,Motorik,Reaktion,T4]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
