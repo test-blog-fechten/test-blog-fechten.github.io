@@ -15,24 +15,6 @@ Ein Fechter darf sich nur auf der 14m langen und ca. 2m breiten Bahn bewegen.
 * Breite: 1.5m bis 2m.
 * Material elektrisch leitend. Um Bodentreffer speziell beim Degen nicht als gültige Treffer anzuzeigen.
 
-# Die Seitenlinien
-* Breite der Bahn 1,5 bis 2m.
-* Wenn man die Seitenlinien mit den Füßen überschreitet bekommt man eine Strafe.
-* Wenn nur ein Fuß außerhalb ist dann wird Halt gerufen. Man wird zur Strafe 1m zurück gesetzt.
-* Wenn beide Füße außerhalb sind, dann bekommt man den Treffer den man gesetzt nicht. Natürlich wird auch dann Halt gerufen und man muss auch 1m zurück.
-
-# Die Mittellinie
-* Da trifft man sich für den Shake Hand nach dem Gefecht.
-* Beide haben die gleichen Platz. (7m)
-
-# Die Startlinien
-* 2m von der Mittellinie entfernt.
-* Dort stellt man sich auf zum Fechtergruß. Vor und nach dem Gefecht.
-* Dort wartet man in korrekter Fechtstellung auf: Stellung,fertig los.(Französisch: En garde – prêt? – allez!)
-
-# Die Endlinien
-* Wenn man diese vollständig mit beiden Füßen überschreitet bekommt man einen Straftreffer.
-
 <svg x="0px" y="0px" width="90%" height="auto" viewBox="0 0 16000 3000" style="stroke-width: 2em;">
   <defs>
    <pattern id="bwsquare50px" width="500" height="500" patternUnits="userSpaceOnUse">
@@ -62,5 +44,22 @@ Ein Fechter darf sich nur auf der 14m langen und ca. 2m breiten Bahn bewegen.
   <path d="M 15000 0 L 15000 3000 Z" style="stroke: green;"/> 
 </svg>
 
+# Die Seitenlinien
+* Breite der Bahn 1,5 bis 2m.
+* Wenn man die Seitenlinien mit den Füßen überschreitet bekommt man eine Strafe.
+* Wenn nur ein Fuß außerhalb ist dann wird Halt gerufen. Man wird zur Strafe 1m zurück gesetzt.
+* Wenn beide Füße außerhalb sind, dann bekommt man den Treffer den man gesetzt nicht. Natürlich wird auch dann Halt gerufen und man muss auch 1m zurück.
+
+# Die Mittellinie
+* Da trifft man sich für den Shake Hand nach dem Gefecht.
+* Beide haben die gleichen Platz. (7m)
+
+# Die Startlinien
+* 2m von der Mittellinie entfernt.
+* Dort stellt man sich auf zum Fechtergruß. Vor und nach dem Gefecht.
+* Dort wartet man in korrekter Fechtstellung auf: Stellung,fertig los.(Französisch: En garde – prêt? – allez!)
+
+# Die Endlinien
+* Wenn man diese vollständig mit beiden Füßen überschreitet bekommt man einen Straftreffer.
 
 * [Siehe auch:](https://asc4asc.github.io/fechtbahn/)
