@@ -37,7 +37,7 @@ Petra   | 4   |     |     |     | x   |
 
 Name    | Nr  | 1   | 2   | 3   | 4   | 
 ---     | --- | --- | --- | --- | --- |
-Marie   | 1   | x   | V   |     |     |
+Marie   | 1   | x   | V2  |     |     |
 Moritz  | 2   | 2   | x   |     |     |
 Kurt    | 3   |     |     | x   |     |
 Petra   | 4   |     |     |     | x   |
@@ -59,7 +59,7 @@ Petra   | 4   |     |     | V2  | x   |
 
 Name    | Nr  | 1   | 2   | 3   | 4   | 
 ---     | --- | --- | --- | --- | --- |
-Marie   | 1   | x   | V   | 3   | V   |
+Marie   | 1   | x   | V2  | 3   | V   |
 Moritz  | 2   | 2   | x   | 0   | 3   |
 Kurt    | 3   | V   | V   | x   | 2   |
 Petra   | 4   | 1   | V   | V2  | x   |
@@ -71,7 +71,7 @@ Nach der Runde mit den Gefechten auf 3 min muss man das Tabelau unterschreiben. 
 
 Name    | Nr  | 1   | 2   | 3   | 4   | 
 ---     | --- | --- | --- | --- | --- |
-Marie   | 1   | x   | V   | 3   | V   |
+Marie   | 1   | x   | V2  | 3   | V   |
 
 * Ein Gefecht verloren also nur ein V (Gegner gewinnt) in ihrer Spalte 1. 
 
