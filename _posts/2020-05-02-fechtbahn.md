@@ -6,7 +6,7 @@ author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
-* Wenn richtig veröffentlicht werden soll unbedingt die Inhalte aus dem Link mitnehmen!
+* _Wenn das richtig veröffentlicht werden soll, unbedingt nochmal die sinvollen Inhalte aus dem Links mitnehmen?_
 
 Ein Fechter darf sich nur auf der 14m langen und ca. 2m breiten Bahn bewegen.
 
@@ -63,3 +63,4 @@ Ein Fechter darf sich nur auf der 14m langen und ca. 2m breiten Bahn bewegen.
 * Wenn man diese vollständig mit beiden Füßen überschreitet bekommt man einen Straftreffer.
 
 * [Siehe auch:](https://asc4asc.github.io/fechtbahn/)
+* [Siehe auch:](https://asc4asc.github.io/foot-2/)
