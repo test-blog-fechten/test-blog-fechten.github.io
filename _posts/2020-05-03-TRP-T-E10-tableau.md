@@ -6,6 +6,7 @@ author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
+* Noch verbessern mehr Farbe .... vor nächster Veröffentlichung. 
 * [E10 in](http://www.fechten.org/fileadmin/user_upload/20190916Pru__fungsheft_TRP_nach_AKreform.pdf)
 
 ## Das Tableau für 4 Teilnehmer sieht so aus:
