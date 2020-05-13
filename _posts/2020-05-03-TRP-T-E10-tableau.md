@@ -89,3 +89,5 @@ Petra   | 4   | 1   |
 * Falls mehrere Vereinskammeraden im gleichen Tableau fechten, fechten die meist zuerst gegeneinander.  
 
 _Normalerweise erledigt das Heute die Turnier Software._
+
+[schau auch mal hier](https://test-blog.fechten-hamm.de/tableau-5/)
