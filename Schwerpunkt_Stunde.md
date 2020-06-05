@@ -62,11 +62,15 @@ email: ASchockenhoff@fechten-hamm.de
 * Schnelligkeit
   * warum?
   * wie?
-
  
 * Zweite Absicht / Einladen ... / Endstoß
 
 * Parade - Riposte
+
+* Gegner dominieren
+  * Push
+  * Push - Pull - Point.
+  ....
 
 * Gegner lesen
   * Stand Classic oder Modern? S288 Complete Guide to FENCING 
