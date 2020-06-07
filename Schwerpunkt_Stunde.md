@@ -11,12 +11,22 @@ email: ASchockenhoff@fechten-hamm.de
   * 1 Best off x 
   * 2 Best off y
   * ......
+  * Umgehungen!
+
+* Immer Vorteile und Nachteile der neuen Aktion erklären
+  * Immer klar machen das man alle Aktionen(speziell wenn man sie öfter benutzt/ Überraschung weg!) reglmässig und mit intensität üben muss.
+  * Immer klar machen das der Erfolg der Aktion auch vom Gegner abhängt.
+  * Absicherung und Fortsetzung / z.b. Nach Hand Arm auf Körper fortsetzen. Oder Absicherung mit gestreckter Waffe nach Ausfall.  
+
+* Häufigsten Aktionen im Degen Fechten?
+  * Umgehen
+  * Stoß 
+  * Kontra Attak
 
 * Taktik wheels
   * was y kann man gehen x tun.
   * was z gegen y
   * geht x gegen z?
- 
 
 * Umgehen/ - Standard um die Glocke.
   * Warum?
@@ -81,5 +91,8 @@ email: ASchockenhoff@fechten-hamm.de
   * ????
 
 * Welche Aktionen gibt es und welche Bedeutung haben diese im modernen Fechten?
-   
-* []()
+
+# Startpunkte für Lektionen im Internet   
+* [sicard](https://www.youtube.com/user/sicardable/videos)
+* [sandra](https://www.youtube.com/channel/UCxO39PDqqRqIBT2wg6Tw1WA/videos)
+* [beth]()https://www.youtube.com/channel/UCQ8j1271zcQSFcQzg061_JA
