@@ -95,4 +95,4 @@ email: ASchockenhoff@fechten-hamm.de
 # Startpunkte für Lektionen im Internet   
 * [sicard](https://www.youtube.com/user/sicardable/videos)
 * [sandra](https://www.youtube.com/channel/UCxO39PDqqRqIBT2wg6Tw1WA/videos)
-* [beth]()https://www.youtube.com/channel/UCQ8j1271zcQSFcQzg061_JA
+* [beth](https://www.youtube.com/channel/UCQ8j1271zcQSFcQzg061_JA)
