@@ -23,8 +23,9 @@ tags: [TRP]
   * schnell -- schnell
   * schnell -- langsam
   * langsam -- schnell
-  * langsam -- langsamm
+  * langsam -- langsam
 
 # Schrittfolgen nach Vorlagen auf Papier durchführen. Möglichst fehlerfrei wie beim Gummitwist.
 
 # Spiel: Ich packe meinen Koffer und packe einen schnellen kleinen Doppelschritt ..... 
+

@@ -31,7 +31,7 @@ Petra   | 4   |     |     |     | x   |
 * In vorgegebener Reihenfolge bei 4 Teilnehmern: 1:2 / 3:4 / 4:1 / 3:2 / 2:4 / 3:1 (6 Gefechte)
 * 4 Teilnehmer -> jeder 3 Gefechte 
 
-* 1tes Gefecht 1:2 Marie(gruen/rechts) mit Moritz(rot/links) -> 5:2 -> V5:D2 
+* 1tes Gefecht 1:2 Marie(grün/rechts) mit Moritz(rot/links) -> 5:2 -> V5:D2 
 * V Victory
 * D Defeat
 
@@ -41,8 +41,8 @@ Marie   | 1   | x   | V  |     |     |
 Moritz  | 2   | 2   | x   |     |     |
 Kurt    | 3   |     |     | x   |     |
 Petra   | 4   |     |     |     | x   |
-    
-* 2tes Gefecht 3:4 Kurt(gruen/rechts) mit Petra(rot/links) -> 2:2 -> D2:V2 (Nach Zeitablauf und Vorteil für Petra)
+
+* 2tes Gefecht 3:4 Kurt(grün/rechts) mit Petra(rot/links) -> 2:2 -> D2:V2 (Nach Zeitablauf und Vorteil für Petra)
 
 Name    | Nr  | 1   | 2   | 3   | 4   | 
 ---     | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Moritz  | 2   | 2   | x   | 0   | 3   |
 Kurt    | 3   | V   | V   | x   | 2   |
 Petra   | 4   | 1   | V   | V2  | x   |
 
-Nach der Runde mit den Gefechten auf 3 min muss man das Tabelau unterschreiben. Unbedingt die Anzahl der V in seiner Zeile prüfen! 
+Nach der Runde mit den Gefechten auf 3 min muss man das Tableau unterschreiben. Unbedingt die Anzahl der V in seiner Zeile prüfen! 
 
 ## Z.B. 
 * Marie gewinnt 2 Gefechte in Zeile 1(Marie) also 2Vs.
@@ -85,7 +85,7 @@ Petra   | 4   | 1   |
 
 ## Besonderheiten
 * Die Fechter werden so aufgestellt das sie der Kampfrichter optimal beobachten kann.
-  * Deswegen muß bei rechts gegen links der rechts Händer zuerst auf die Bahn.(gruen/links). 
+  * Deswegen muss bei rechts gegen links der rechts Händler zuerst auf die Bahn.(grün/links). 
 * Falls mehrere Vereinskammeraden im gleichen Tableau fechten, fechten die meist zuerst gegeneinander.  
 
 _Normalerweise erledigt das Heute die Turnier Software._

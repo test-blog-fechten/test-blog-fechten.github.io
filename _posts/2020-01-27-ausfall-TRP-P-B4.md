@@ -32,6 +32,6 @@ bei gleichzeitigem kräftigen Abstoß des Standbeins (siehe Ausfall).
 * Der Blick ist auf den Gegner gerichtet.
 
 #### Zurück in korrekte Fechtstellung
-* Im Degen den Arm bein Aufstehen gestreckt halten und bereit sein zu umgehen.
-* zur Unterstützung hinteres Bein einknicken wenn hinterer Fuß noch flach auf der Sole steht. 
-* vorderes Bein bringt einen zurück in die tiefe Fechtstellung.
+* Im Degen den Arm beim Aufstehen gestreckt halten und bereit sein zu umgehen. (Gegner will Klinge nehmen.)
+* Zur Unterstützung hinteres Bein einknicken wenn hinterer Fuß noch flach auf der Sole steht. 
+* Vorderes Bein bringt einen zurück in die tiefe Fechtstellung.

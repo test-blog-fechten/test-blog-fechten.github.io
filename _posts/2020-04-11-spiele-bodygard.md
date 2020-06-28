@@ -12,9 +12,9 @@ email: ASchockenhoff@fechten-hamm.de
 * oder ein weicher Frisbee.
 
 ### Ablauf
-Alle Spieler bis auf zwei stellen sich im Kreis auf. Der Kreisradius sollte an das Alter der Spieler angepasst sein. 
+Alle Spieler bis auf zwei stellen sich im Kreis auf. Der Kreis Radius sollte an das Alter der Spieler angepasst sein. 
 Je älter die Spieler sind, desto größer wird der Radius sein. 
-Zwei Spieler haben eine Sonderfunktion: einer ist der VIP, der andere sein Bodyguard. Beide stehen in der Kreismitte.
+Zwei Spieler haben eine Sonderfunktion: einer ist der VIP, der andere sein Bodyguard. Beide stehen in der Kreis Mitte.
 
 Die Spieler am Kreis haben die Aufgabe, den VIP mit dem Ball abzuschießen. Der Bodyguard muss verhindern, das der Ball den VIP berührt. 
 Berührt der Ball den VIP auch nur mit einem Körperteil, hat er verloren; auch das Fangen des Balles gilt nicht und führt zur Niederlage.
@@ -28,4 +28,3 @@ Besonders schwierig wird es bei zwei oder noch mehr Bällen.
 Bei vielen Mitspielern und entsprechend großen Kreisen kann man auch die Anzahl der VIPs und Bodyguards erhöhen (z.B. 4 Bälle, 3 Bodyguards, 2 VIPs)
 
 _Weicher Frisbee oder Ball. / gespielt 10er Gruppe gemischt gut geklappt._
-  
