@@ -11,7 +11,8 @@ Es bietet sich auch an um sich aufzuwärmen. z.B. vor dem Wettkampf in einer vol
 
 Anfänger: [Video](https://www.youtube.com/watch?v=IwT42eIQswE)
 
-[Umfangreiche Anleitung](https://www.sportunterricht.ch/lektion/BDT/bdt3.php)
+* [Umfangreiche Anleitung](https://www.sportunterricht.ch/lektion/BDT/bdt3.php)
+* [Sowie hier](http://www.bewegungskompetenzen.at/2020/index.php/779)
 
 Hier fehlt mir [Criss Cross](https://www.youtube.com/watch?v=JBVbEG-8vi4)
 
