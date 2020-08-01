@@ -7,4 +7,4 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 ### Ideen:
 
-* http://www.bewegungskompetenzen.at/2020/index.php/772
+* [Üben mit Spielen](http://www.bewegungskompetenzen.at/2020/index.php/772)
