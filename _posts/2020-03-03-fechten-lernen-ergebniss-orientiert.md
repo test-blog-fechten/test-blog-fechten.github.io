@@ -12,7 +12,7 @@ title: Fechten lernen / Ergebnis orientiert
  * Aus dem Beispiel Video / 5 1/2 Methoden trotz einer Parade zu treffen. :-)
   * Andere Trefffläche suchen
   * Umgehung (Glocke)
-  * Coupe (Umgehung Klinge)
+  * [Coupe (Umgehung Klinge)](https://www.youtube.com/watch?v=pLw9eJqi5is)
   * Zurückziehen und wieder vor
   * Direkt durch 
 
