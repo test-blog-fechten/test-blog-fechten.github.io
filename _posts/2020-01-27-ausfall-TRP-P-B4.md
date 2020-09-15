@@ -8,8 +8,8 @@ tags: [TRP]
 * Die Armstreckung leitet den Ausfall ein.
 * Unterschenkel des Ausfallbeines schnellt nach vorne. 
 * Das Standbein drückt sich kräftig ab und schiebt den Körper und die Ferse des Ausfallbeines flach nach vorne.
-* Das Kniegelenk   des   Standbeines   durchdrücken   und   gleichzeitig den waffenfreien Arm aus dem Ellbogengelenk nach hinten schlagen.
-* Ferse setzt flach auf und der Fuß rollt auf die ganze Soh-le ab.
+* Das Kniegelenk des Standbeines durchdrücken und gleichzeitig den **waffenfreien Arm** aus dem Ellbogengelenk nach hinten ausstrecken.
+* Ferse setzt flach auf und der Fuß rollt auf die ganze Sohle ab.
 * Den Körper in der Ausfallstellung muskulär abfangen!
 
 [Video](https://www.youtube.com/watch?v=NZyqrO0YslQ)
