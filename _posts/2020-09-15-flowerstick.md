@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flowersticks
-tags: [Aufwärmen,Motorik,Reaktion,zuHause,T4]
+tags: [Aufwärmen,Motorik,Reaktion,zuHause,T4,T6]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
@@ -12,9 +12,9 @@ email: ASchockenhoff@fechten-hamm.de
 ### Üben:
 
 * Am Boden: z.B. Tic Toc (mit einem Stick oder mit beiden Sticks)
-* Mit der Händen
-* Mit einer Hand und einem Stick.
-* Mit beiden Sticks in der Luft.
-* Mit einem Stick  in der Luft.
+* Mit der Händen und den Flowerstick.
+* Mit einer Hand und einem Hand Stick sowie dem Flowerstick.
+* Mit beiden Hand Sticks und dem Flowerstick in der Luft.
+* Mit einem Hand Stick und dem Flowerstick  in der Luft.
 
 [Ideen](https://www.youtube.com/channel/UCxSy4d9RrQSiIC7Km_o2ssA)
