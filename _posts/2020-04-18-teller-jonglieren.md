@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teller jonglieren 
-tags: [Motorik,zuHause,T4,T6]
+tags: [Motorik,zuHause,T4]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
@@ -17,3 +17,5 @@ _Rechts alles gut. Sogar wechsel auf linke Hand und zweiten Teller starten mögl
 Idee: Am Anfang den Teller drehen und den Kindern auf den Stab zum balancieren geben.
 
 Anmerkung: Falls es schnell klappt bitte mit der anderen Hand. Oder in die andere Richtung drehen.
+
+Der normale Hut hilft beim erklären der Drehbewegung.
