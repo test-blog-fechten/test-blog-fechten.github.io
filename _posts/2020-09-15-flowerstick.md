@@ -8,7 +8,7 @@ email: ASchockenhoff@fechten-hamm.de
 
 ### Ideen:
 * [Video](https://www.youtube.com/watch?v=QhFfFgYo6mg) 
-* https://www.xtremestix.com/tricks/
+* [https://www.xtremestix.com/tricks/](https://www.xtremestix.com/tricks/)
 
 ### Üben:
 
