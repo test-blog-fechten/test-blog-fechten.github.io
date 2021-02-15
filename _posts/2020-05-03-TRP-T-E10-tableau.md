@@ -86,7 +86,7 @@ Petra   | 4   | 1   |
 ## Besonderheiten
 * Die Fechter werden so aufgestellt das sie der Kampfrichter optimal beobachten kann.
   * Deswegen muss bei rechts gegen links der rechts Händler zuerst auf die Bahn.(grün/links). 
-* Falls mehrere Vereinskammeraden im gleichen Tableau fechten, fechten die meist zuerst gegeneinander.  
+* Falls mehrere Vereinskammeraden im gleichen Tableau fechten. Fechten die meist zuerst gegeneinander um Absprachen zu verhindern.  
 
 _Normalerweise erledigt das Heute die Turnier Software._
 
