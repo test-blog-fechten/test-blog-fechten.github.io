@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Point first / Kontrolle der Spitze
-tags: [fechten]
+tags: [Fechten]
 ---
 
 Eine ganz wichtige aber auch nicht einfache Aufgabe. Man versucht die Spitze immer so zu plazieren das man als erster trifft.
