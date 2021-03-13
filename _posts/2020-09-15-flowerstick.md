@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flowersticks
-tags: [Aufwärmen,Motorik,Reaktion,zuHause,T4,T6]
+tags: [Aufwärmen,Motorik,Reaktion,zuHause,T8]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
