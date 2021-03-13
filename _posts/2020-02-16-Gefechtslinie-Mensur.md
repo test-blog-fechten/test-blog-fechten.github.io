@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gefechtslinie - Mensur
-tags: [fechten]
+tags: [Fechten]
 ---
 
 #### Mensur der Abstand der Fechter
