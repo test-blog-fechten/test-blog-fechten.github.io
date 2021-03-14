@@ -24,3 +24,4 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Vorbereiten
 * Pressen
 * Ziehen
+* an täuschen um Aktion zu provozieren
