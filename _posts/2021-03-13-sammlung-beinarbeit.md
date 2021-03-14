@@ -7,7 +7,7 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebrauchen kann.
 
-[Grundlagen speziell erstes Video:](./2020-06-03-new-post)
+[Grundlagen speziell erstes Video:](./2020-06-03-new-post.md)
 
 ### Besondere Beinarbeit 
 * Halbe Schritte, mit Ausfall.
