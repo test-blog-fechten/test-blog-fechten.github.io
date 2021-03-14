@@ -16,3 +16,10 @@ email: ASchockenhoff@fechten-hamm.de
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
 * Kreuzschritt nach voren / Flash
 * ??????
+* Ausfall auf der Stelle. (Sinn?)
+
+
+### Beinarbeit mit Armstreckung  
+* Vor dem vorderen Bein
+* Gleichzeitig
+* Nach dem Bein.

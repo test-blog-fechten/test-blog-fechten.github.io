@@ -1,51 +1,21 @@
 ---
 layout: post
-title: Training Samstag 
-tags: [Aufwärmen,Motorik,Fechten]
+title: Neu!
+tags: [Aufwärmen,Ausdauer,Beinarbeit,Fechten,Motorik,Reaktion,Spiele,TRP,zuHause,Spiel_testen,Spiele_beliebt,Outdoor,Checkliste]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
-### Aufwärmen (wiederholen bis einigermaßen warm)
-* laufen auf der Stelle.
-* In die Hocke und wieder hoch.
-* Springen auf der Stelle, beide Beine gleichzeitig
-* In Fechstellung bouncen.
+### Alle bei uns empfohlenden Tags hier eintragen:
+[Markdown von github](https://guides.github.com/features/mastering-markdown/) wird benutzt.
 
-### Gleichgewicht (wiederholen)
-* Auf einem Bein stehen.  
-* Den Yoga Baum machen.
-* In die Standwage nach vorne gehen, dann nach hinten. Wenn möglich hüpfen! Oder Augen zu?
-* Das Bein tauschen
+# Überschriften
+#### Kleine Überschriften
 
-### Kraft (auf dem Platz) / Wird in den nächsten Wochen langsamm mehr! (Ziel: Sally up)
-* Liegestütz 7 St.
-* Strecksprünge 15 St.
-* Ausfallschritte 7x Rechts 7x Links
+[Ein Link](http://fechten-hamm.de)
+[Link auf anderen Blog Beitrag:](../2020-02-15-Seilspringen-start) 
 
-### Seilspringen (jeder sollte sich eins besorgen)
-* Heute einfach so als ob aber ohne Seil auf der Stelle. 50 Stück.
-* Kreis bilden mit Abstand möglich um Seil im Kreis laufen zu lassen?
+* Aufzählung
+* mehr
 
-### Beinarbeit (Gruppen teilen nach können)
-* Vor dem Spiegel!
-* Schrittlängen varieren! Denke für ein Schritt zurück solttest Du mindestens 2 Schritte vor setzen können.
-* Andere Beinarbeitsbewegungen z.B. Schritt zurück. Distanz halten oder öffnen. Provozieren und zurück.
-* Eventuell: Halbe Schritte. Rapido und & / Meidbewegungen.
-
-### Fechten (Partnerübung)
-* Winkelstöße? / Stoßbewegung optimieren! Was ist zu beachten?
-* Was dagegen tun? Beat (leicht oder schwer) und treffen! (Anderer Fechter darf nicht umgehen oder ausweichen!)
-* Was gegen "Beat" tun? Umgehen! Gibt es andere Möglichkeiten? Treffen!
-
-### Taktisches Dreieck?
-* Was kann man gegen die Umgehung Treffer tun?
-* Finte Beat! Umgehung provozieren aber abbrechen und eher treffen!
-
-### Extra Anmerkungen (Wer hat die Corona Reglen für die Tus Halle Gelesen?)
-* Lüften!
-* Abstand halten wenn immer möglich.
-* Maske tragen wenn nöetig.
-* Möglichst alle Sachen mit der Fechthand und dem Handschuh anfassen. 
-* Möglichst nicht ins Gesicht fassen und wenn nur mit der Hand ohne Handshuh. 
-* Falls etwas unklar ist einfach mal Hände Waschen gehen.
+**Schickt mir eine einfach e-mail wenn Ihr wollt. Ich freue mich über nette Anmerkungen und Anregungen. Sachliche Kritik ist auch erwünscht!** 
