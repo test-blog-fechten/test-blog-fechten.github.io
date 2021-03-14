@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Einlagungen
+title: Einladungen
 tags: [Theorie,Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de

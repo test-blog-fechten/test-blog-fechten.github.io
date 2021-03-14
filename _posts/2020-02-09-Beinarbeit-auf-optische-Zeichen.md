@@ -19,5 +19,8 @@ Trainer oder Fechter lässt Mensur halten und bewegt sich, bei bestimmten Bewegu
 
 [Beispiel](https://www.youtube.com/watch?v=l6AWEmhbKq4&list=PLiw77fdUd29GVPsIUFwCJsIByVvn9i2iD&index=8)
 
+[Beispiel](https://www.youtube.com/watch?v=iYI7scFhVP410:28 2021-03-14) bei ca. 5:08 Minuten.
+
+
 
 
