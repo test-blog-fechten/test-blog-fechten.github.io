@@ -5,6 +5,8 @@ tags: [Beinarbeit,Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
+Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebrauchen kann.
+
 ### Besondere Beinarbeit 
 * Halbe Schritte, mit Ausfall.
 * Rapido
@@ -15,4 +17,5 @@ email: ASchockenhoff@fechten-hamm.de
 * Kreuzschritte nach hinten / z.B. nach Meidbewegung des Oberkoerpers.
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
 * Kreuzschritt nach voren / Flash
+* Ducken in die Hocke. / Meidbewegung / mal ne Parade neun dazu probieren :-) 
 * ??????
