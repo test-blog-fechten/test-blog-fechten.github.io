@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sammlung
+title: Sammlung Beinarbeit
 tags: [Beinarbeit,Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
