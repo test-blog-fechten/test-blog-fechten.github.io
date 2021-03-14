@@ -19,3 +19,8 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Kreuzschritt nach voren / Flash
 * Ducken in die Hocke. / Meidbewegung / mal ne Parade neun dazu probieren :-) 
 * ??????
+
+### Absicht der Beinarbeit
+* Vorbereiten
+* Pressen
+* Ziehen
