@@ -18,10 +18,10 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Appell Ausfall
 * Kreuzschritte nach hinten / z.B. nach Meidbewegung des Oberkoerpers.
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
-* Kreuzschritt nach voren / Flash
-* Ducken in die Hocke. / Meidbewegung / mal ne Parade neun dazu probieren :-) 
+* Kreuzschritt nach vorne / Flash
+* Meidbewgungen z.B. Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
 * ??????
-* Ausfall auf der Stelle. (Sinn?)
+* Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
 
 
 ### Beinarbeit mit Armstreckung  
