@@ -13,4 +13,4 @@ email: ASchockenhoff@fechten-hamm.de
 * Mit Aufgaben ( auch speziell fuer den besseren Fechter ) 
  * ohne Klinge.
  * nur Parade Riposte 
- * Sieg nach Zeitablauf für einen Fechter auch wenn er hinten liegt. 
+ * Sieg nach Zeitablauf für einen Fechter auch wenn er hinten liegt der andere Fechter muss z.B. 15 Punkte erreichen. 
