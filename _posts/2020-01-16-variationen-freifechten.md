@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training Samstag Quiz 
+title: Variationen Frei Fechten 
 tags: [Spiele,Klinge,Beinarbeit,Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
