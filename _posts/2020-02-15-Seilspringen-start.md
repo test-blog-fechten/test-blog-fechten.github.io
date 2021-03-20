@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seilspringen 
-tags: [Motorik,Spiele,Ausdauer,Aufwärmen,T4,T8]
+tags: [Motorik,Spiele,Ausdauer,Aufwärmen,T8]
 ---
 
 Das klassische Seilspringen ist ein super Koordinations und Rhythmus Übung.
