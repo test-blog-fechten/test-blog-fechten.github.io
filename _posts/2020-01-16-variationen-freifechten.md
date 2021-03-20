@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variationen Frei Fechten 
-tags: [Spiele,Klinge,Beinarbeit,Sammlung]
+tags: [Beinarbeit,Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
