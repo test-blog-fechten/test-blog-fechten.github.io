@@ -11,5 +11,5 @@ email: ASchockenhoff@fechten-hamm.de
 * Jonglieren
 * Fechten auf Einrad
 * Seispringen im großen Seil.
-* Fußball jonglieren und gleichzeitig Seil springen https://www.youtube.com/watch?v=Cvz04z20mEI
+* Fußball jonglieren und gleichzeitig Seil springen [show](https://www.youtube.com/watch?v=Cvz04z20mEI)
 *
