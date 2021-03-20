@@ -7,6 +7,8 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 [Gefunden im Netz:](https://www.youtube.com/watch?v=hOA7SYkHB_k)
 
+[Anleitung für Anfänger:](https://www.vibss.de/fileadmin/Medienablage/Sportpraxis/PfP_Spiele/2013_Jongliertipps_fuer_Einsteiger.pdf)
+
 _Ich habe verschiedene Teller und Stäbe, bisher klappt es bei mir nur mit dem "Henrys Jonglierteller inkl. Stab"
 Der scheint auch sehr zum lernen geeignet, weil er oben auf den Stock bleibt auch wenn man noch etwas falsch macht._
 
