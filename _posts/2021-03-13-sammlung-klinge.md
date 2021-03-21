@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sammlung Beinarbeit
+title: Sammlung Klingen Aktionen
 tags: [Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
