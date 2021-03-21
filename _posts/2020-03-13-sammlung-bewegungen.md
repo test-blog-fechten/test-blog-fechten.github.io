@@ -7,21 +7,45 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 
 ### Wofür
-* Hampelman
 * Aufwärmen
+* Hampelman
 * Lauf ABC
-* Seilspringen
+* Seilspringen (schnelles oder schweres Seil)
 * 
 
 ### Schritte
+* Skippings
 * Boxerschritte
 * Scherenschritt
 * Hüpfen
 * Laufen
-
+* Spreizen
+* Knie hoch
+* Hacken anfersen
+* Rotation nur des Fußes
+* Beine kreuzen / wechseln rechts vor links ....
+* mit Zwischenschritt
+* Can Can
+* Diagonal
+* Ein Bein / Wechsel nach x
+* landen auf Spitze oder Hacke
+* x Sprünge dann ein hoher Sprung 
 
 ### Arme 
 * Boxen
 * Arme kreisen groß
 * Arme kreisen
 * Hamplemann Arme
+
+### Im Raum (ein oder mehrere Bewegungen)
+* vor und zurück
+* seitlich 
+* im Kreis
+
+### Unterlage?
+
+[Demo Lauf ABC](https://www.leichtathletik.de/training/trueathletes-at-home/training-drinnen-draussen/laufen/videos-lauf-abc)
+
+[Demo Roupe](https://www.youtube.com/watch?v=rSYkJIOnT78)
+
+[Demo Hampelmann](https://www.youtube.com/watch?v=LeVpqaAIb_A)
