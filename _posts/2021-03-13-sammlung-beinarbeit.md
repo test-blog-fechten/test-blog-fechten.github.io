@@ -19,15 +19,22 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Kreuzschritte nach hinten / z.B. nach Meidbewegung des Oberkoerpers.
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
 * Kreuzschritt nach vorne / Flash
-* Meidbewgungen z.B. Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
+* Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
 * ??????
 * Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
-
 
 ### Beinarbeit mit Armstreckung  
 * Vor dem vorderen Bein
 * Gleichzeitig
 * Nach dem Bein.
+
+### Aktionen duch Beinarbeit
+* Vorbereitung Angriff
+* Kurz fallen lassen
+* Distanz(Mensur) Kontrolle
+* Meidbewegung 
+* Drücken(Push) und ziehen(Pull)
+
 =======
 
 ### Absicht der Beinarbeit
