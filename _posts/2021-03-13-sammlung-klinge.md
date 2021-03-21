@@ -12,6 +12,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Klingen Schlag / Beat
 * Bindung
 * Transport
+* Sperrung / Opposition
 
 ### Klinge vermeiden
 * Umgehung
