@@ -9,6 +9,11 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 
 ### Klinge 
 * Parade
+* Klingen Schlag / Beat
+* Bindung
+* Transport
 
 ### Klinge vermeiden
 * Umgehung
+* Coupe
+* Zurück und wieder vor.
