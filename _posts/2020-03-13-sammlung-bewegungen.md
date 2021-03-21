@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sammlung Bewegungsnamen 
+title: Sammlung Lauf Bewegungen 
 tags: [Sammlung]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
