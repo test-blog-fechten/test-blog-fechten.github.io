@@ -10,7 +10,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 ### Klinge 
 * Parade
 * Klingen Schlag / Beat
-* Bindung
+* Bindung / Bindungs Stoß / Filo 
 * Transport
 * Sperrung / Opposition
 
@@ -18,3 +18,4 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Umgehung
 * Coupe
 * Zurück und wieder vor.
+* Bingo
