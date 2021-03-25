@@ -15,3 +15,5 @@ Besser ist es aus dem Ausfall mit gestrecktem Arm aufzustehen und dann den zurü
 Üben die Spitze zu plazieren: 
 
 [Video](https://www.youtube.com/watch?v=__a8NvIa3c8&t=63s)
+
+[Video](https://www.youtube.com/watch?v=BPpbWHRF__g)
