@@ -34,7 +34,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Distanz(Mensur) Kontrolle
 * Meidbewegung 
 * Drücken(Push) und ziehen(Pull)
-*[Vorbereiten des Treffers Preparation](https://www.youtube.com/watch?v=Upv3a54m9jA)
+* [Vorbereiten des Treffers Preparation](https://www.youtube.com/watch?v=Upv3a54m9jA)
 
 =======
 
