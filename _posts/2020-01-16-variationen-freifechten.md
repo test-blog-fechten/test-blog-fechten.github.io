@@ -14,6 +14,7 @@ email: ASchockenhoff@fechten-hamm.de
  * ohne Klinge.
  * nur Parade Riposte 
  * Sieg nach Zeitablauf für einen Fechter auch wenn er hinten liegt der andere Fechter muss z.B. 15 Punkte erreichen. 
+ * Trefferrecht auf Florett/Säbel. Oder nur für den besseren Fechter. 
 
 ### Ideen testen Anfänger gegen Fechter(Trainer) (Aufgabe stellen Lösung muss selbst erarbeitet werden.) (Komplette Ausrüstung!)
 * Fechter nur Paraden(keine Riposte) Riposte erst im Nahkampf. (Voraussetzung: Fechter ist dem Anfänger überlegen)

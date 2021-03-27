@@ -15,7 +15,16 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Sperrung / Opposition
 
 ### Klinge vermeiden
-* Umgehung
+* Umgehung Kreisen https://www.youtube.com/watch?v=63fwmKo-W8E
 * Coupe
 * Zurück und wieder vor.
 * Bingo
+
+
+
+Einfacher Stoß https://www.youtube.com/watch?v=vV8EWU496Vc
+
+* Aus Point in Line. (Gegner läuft rein)
+* Point in Line mit Beinbewegung 
+* Flash / Treffen und dann Auslaufen.
+* Running Ataks / ähnlich dem Flash aber leichter für den Gegner zu reagieren.
