@@ -11,6 +11,7 @@ email: ASchockenhoff@fechten-hamm.de
 * Oktav
 * Terz
 * Second
+* [Durch Fehler Einladen](https://www.youtube.com/watch?v=hsseTjGuRcE)
 
-# Weitere Eiladungen?
-* Nur Sinvolle?
+# Weitere Einladungen?
+* Nur Sinnvolle?
