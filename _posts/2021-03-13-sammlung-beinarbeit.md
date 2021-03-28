@@ -10,7 +10,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 [Grundlagen:](https://www.youtube.com/watch?v=gU4d2PL_5nY&t=1s)
 
 ### Besondere Beinarbeit 
-* [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall.
+* [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
 * Rapido
 * Verschiede Rhytmen, z.B. Geschwindigkeiswechsel wenn hinteres/vorderes Bein aufsetzt.  
 * Appell 
