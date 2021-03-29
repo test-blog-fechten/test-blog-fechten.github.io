@@ -28,3 +28,7 @@ Einfacher Stoß https://www.youtube.com/watch?v=vV8EWU496Vc
 * Point in Line mit Beinbewegung 
 * Flash / Treffen und dann Auslaufen.
 * Running Ataks / ähnlich dem Flash aber leichter für den Gegner zu reagieren.
+
+
+
+[Stoßkissen](https://www.youtube.com/watch?v=A5ll8aFp_9A)

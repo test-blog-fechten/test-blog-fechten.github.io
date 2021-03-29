@@ -9,6 +9,14 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 
 [Grundlagen:](https://www.youtube.com/watch?v=gU4d2PL_5nY&t=1s)
 
+
+
+[Fechtstellung](https://www.youtube.com/watch?v=is1VXnFXTnc)
+
+[Schritte](https://www.youtube.com/watch?v=XLAuQRWPRQY)
+
+[Ausfall](https://www.youtube.com/watch?v=h-3Fd29_hsc)
+
 ### Besondere Beinarbeit 
 * [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
 * Rapido
