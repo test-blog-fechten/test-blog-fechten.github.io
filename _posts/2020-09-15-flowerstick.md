@@ -11,10 +11,9 @@ email: ASchockenhoff@fechten-hamm.de
 * [Etwas schwieriger](https://www.xtremestix.com/tricks/)
 
 ### Üben:
-
 * Am Boden: z.B. Tic Toc 
    * mit einem Stick 
-   * oder mit beiden Sticks)
+   * oder mit beiden Sticks
    * mit Drehung des Flowersticks
 * Mit der Händen und den Flowerstick.
 * Mit einer Hand und einem Hand Stick sowie dem Flowerstick.
