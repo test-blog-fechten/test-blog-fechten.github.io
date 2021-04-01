@@ -17,16 +17,17 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 
 ### Besondere Beinarbeit 
 * [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
-* Rapido
+* Rapido https://www.youtube.com/watch?v=cgwBcPsM1Y4&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=11
+* Ausfall https://www.youtube.com/watch?v=J_l8AUxaekI&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10
 * [Balestra Lunge](https://www.youtube.com/watch?v=4Q2esRhDfGY)
-* Pantiando
+* Pantiando https://www.youtube.com/watch?v=4Q2esRhDfGY)
 * Verschiede Rhytmen, z.B. Geschwindigkeiswechsel wenn hinteres/vorderes Bein aufsetzt.  
 * Appell 
 * Sprung vor Ausfall
-* Appell Ausfall
+* Appell Ausfall https://www.youtube.com/watch?v=LXGPLWjxsqQ
 * Kreuzschritte nach hinten / z.B. nach Meidbewegung des Oberkoerpers.
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
-* Kreuzschritt nach vorne / Flash
+* Kreuzschritt nach vorne / [Flash](https://www.youtube.com/watch?v=PXLeUSS2G_A&list=PLFCACA1090D3E09BA&index=5)
 * Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
 * ??????
 * Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
@@ -52,3 +53,11 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Pressen
 * Ziehen
 * an täuschen um Aktion zu provozieren
+
+
+
+### Üben
+
+https://www.youtube.com/watch?v=10QE_YFi-D4
+
+https://www.youtube.com/watch?v=zseq3eCf_9g&list=RDCMUCndKNCqgmw8sAvcYoRboevg&index=27
