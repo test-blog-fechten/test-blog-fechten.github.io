@@ -18,6 +18,8 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 ### Besondere Beinarbeit 
 * [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
 * Rapido
+* [Balestra Lunge](https://www.youtube.com/watch?v=4Q2esRhDfGY)
+* Pantiando
 * Verschiede Rhytmen, z.B. Geschwindigkeiswechsel wenn hinteres/vorderes Bein aufsetzt.  
 * Appell 
 * Sprung vor Ausfall
@@ -28,6 +30,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
 * ??????
 * Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
+* Flunges (Säbel weil kreutzen der Beine verboten)
 
 ### Beinarbeit mit Armstreckung  
 * Vor dem vorderen Bein
