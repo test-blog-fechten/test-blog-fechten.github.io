@@ -57,7 +57,7 @@ email: ASchockenhoff@fechten-hamm.de
 
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo) (Walkout) (Taucher)
 
-- [Toter Käfer](https://www.youtube.com/watch?v=g_BYB0R-4Ws)
+- [Toter Käfer / Dead Bug](https://www.youtube.com/watch?v=g_BYB0R-4Ws) [und](https://www.youtube.com/watch?v=UIL7VI5_EQg)
 
   
   
