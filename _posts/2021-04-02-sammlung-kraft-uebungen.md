@@ -13,6 +13,7 @@ email: ASchockenhoff@fechten-hamm.de
 - [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
 - [Plank](https://www.youtube.com/watch?v=BQu26ABuVS0)
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
+- [Beine hoch / Leg Raise](https://www.youtube.com/watch?v=l4kQd9eWclE)
 - Schwimmen oder ähnliches
 
 ### Oberschenkel
