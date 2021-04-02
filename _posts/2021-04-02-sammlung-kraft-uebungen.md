@@ -7,9 +7,22 @@ email: ASchockenhoff@fechten-hamm.de
 ---
 
 - [Crunches](https://www.youtube.com/watch?v=Xyd_fa5zoEU)
+
 - [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
+
 - [Plank](https://www.youtube.com/watch?v=BQu26ABuVS0)
+
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
+
+- Stuhl Pose 
+
+- Ausfallschritte 
+
+- Tief sitzen oder laufen / In Fechtstellung
+
+- Kniebeugen Squad  
+
+  
 
 ### Advanced
 
@@ -21,7 +34,7 @@ email: ASchockenhoff@fechten-hamm.de
 
 - Strecksprünge / Jump / X Jump, Hampelman Sprung
 
-- Squat / Kniebeuge (Wand) Squat Lunge 
+- Squad / Kniebeuge (Wand) Squat Lunge 
 
 - Brücke 
 
