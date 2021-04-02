@@ -8,17 +8,33 @@ email: ASchockenhoff@fechten-hamm.de
 
 - [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) 
 
-- Push ups  Liegestütz
+- [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
 
-- Plank
+- Plank (walking) (up down)  Stütz (Seitlich)
 
-- Crunches
+- Crunches  (oblique) (reverse)
 
 - ...
 
-- Ausfälle (Fechtausfälle)
+- Ausfälle (Fechtausfälle) Lunge 
 
-- 
+- Squat Lunge
+
+- [Burpies](https://www.youtube.com/watch?v=qLBImHhCXSw)
+
+- Strecksprünge / Jump
+
+- ....
+
+- Squat / Kniebeuge (Wand)
+
+- Brücke 
+
+- X Jump, Hampelman Sprung
+
+- Crap Toe Touché
+
+- Bergsteiger 
 
   
 
@@ -26,4 +42,4 @@ email: ASchockenhoff@fechten-hamm.de
 
 Hauptsätzlich um sich die Namen .... zu merken. 
 
-Sortierung?
+Sortierung?????
