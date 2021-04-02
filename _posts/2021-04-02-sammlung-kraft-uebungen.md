@@ -13,12 +13,13 @@ email: ASchockenhoff@fechten-hamm.de
 - [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
 - [Plank](https://www.youtube.com/watch?v=BQu26ABuVS0)
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
+- Schwimmen oder ähnliches
 
 ### Oberschenkel
 
 - Stuhl Pose 
 - Ausfallschritte normal und Fechtspezifisch
-- Tief sitzen oder laufen / In Fechtstellun**g**
+- Tief sitzen oder laufen / In Fechtstellung
 
 **Dynamische Übungen - Laufen - Springen ........**
 
