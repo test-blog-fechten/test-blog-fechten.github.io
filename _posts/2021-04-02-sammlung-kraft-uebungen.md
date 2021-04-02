@@ -6,9 +6,9 @@ author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
-- Crunches  
+- [Crunches](https://www.youtube.com/watch?v=Xyd_fa5zoEU)
 - [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
-- Plank
+- [Plank](https://www.youtube.com/watch?v=BQu26ABuVS0)
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
 
 ### Advanced
