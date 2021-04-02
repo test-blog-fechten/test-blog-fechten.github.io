@@ -48,5 +48,7 @@ Sortierung?????
 
 Quellen: "Buch: Die ANATOMIE des GERÄTELOSEN WORKOUTS", Internet, Praxis 
 
-[Lib in the Net](https://www.youtube.com/watch?v=ZTN2mCuYi2Y&list=PLQSMS0J6JbrKdSOSbyJXaQ_zN_HSSp7zZ&index=1)
+[Lib in the Net](https://www.youtube.com/watch?v=4XcGTvcSRxY&list=PLQSMS0J6JbrKdSOSbyJXaQ_zN_HSSp7zZ&index=1)
+
+
 
