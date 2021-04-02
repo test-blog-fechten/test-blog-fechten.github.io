@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Body Build?
+title: Core Body Build?
 tags: [Ausdauer,Motorik,Outdoor,Dehnen,Beweglichkeit,Sammlung,Kraft]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
-- [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) 
+- Crunches  
+- [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
+- Plank
+- [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
+
+### Advanced
 
 - Crunches  (oblique) (reverse) (Bicycle) (Arm reach) (lemon Squeezer)
-
-- [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo) (Walkout) (Taucher)
-
-- Plank (walking) (up down)  Stütz (Seitlich) (Front/Reverse) (Knee pull)
 
 - Ausfälle (Fechtausfälle) Lunge (Lateral) [(Side to side)](https://www.youtube.com/watch?v=KXoVm0WXcfE&list=PLQSMS0J6JbrKdSOSbyJXaQ_zN_HSSp7zZ&index=130)
 
@@ -38,6 +39,12 @@ email: ASchockenhoff@fechten-hamm.de
 
 - V-UP
 
+- Plank (walking) (up down)  Stütz (Seitlich) (Front/Reverse) (Knee pull)
+
+- [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo) (Walkout) (Taucher)
+
+  
+  
   
 
 
