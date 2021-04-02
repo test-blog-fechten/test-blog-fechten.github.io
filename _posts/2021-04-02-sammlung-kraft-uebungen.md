@@ -60,6 +60,10 @@ email: ASchockenhoff@fechten-hamm.de
 
 - [Toter Käfer / Dead Bug](https://www.youtube.com/watch?v=g_BYB0R-4Ws) [und](https://www.youtube.com/watch?v=UIL7VI5_EQg)
 
+- [Baby Shark](https://www.youtube.com/watch?v=LurCQ9XGkt0)
+
+- [Im Stehen z.B Outdoor](https://www.youtube.com/watch?v=QKCkO9fy9O4)
+
   
   
   
