@@ -50,5 +50,7 @@ Quellen: "Buch: Die ANATOMIE des GERÄTELOSEN WORKOUTS", Internet, Praxis
 
 [Lib in the Net](https://www.youtube.com/watch?v=4XcGTvcSRxY&list=PLQSMS0J6JbrKdSOSbyJXaQ_zN_HSSp7zZ&index=1)
 
+[und](https://www.youtube.com/watch?v=-XUuajf3H7I)
+
 
 
