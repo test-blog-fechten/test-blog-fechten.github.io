@@ -10,7 +10,7 @@ email: ASchockenhoff@fechten-hamm.de
 ### Körper Mitte
 
 - [Crunches](https://www.youtube.com/watch?v=Xyd_fa5zoEU)
-- [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. Wenn da nicht klappt erst nur einfache Crunches machen.  
+- [Situps](https://www.youtube.com/watch?v=1fbU_MkV7NE) Anfangen mit Arme vorne und Füße fixiert. Unterer Rücken ist gerade und hebt den Körper an. (Keinen Schwung holen!) Wenn da nicht klappt erst nur einfache Crunches machen.  Start im Sitzen und nur soweit runter gehen das man wieder hoch kommt. Versuchen länger in der tiefen Position zu bleiben.
 - [Plank](https://www.youtube.com/watch?v=BQu26ABuVS0)
 - [Push ups  Liegestütz ](https://www.youtube.com/watch?v=yFyto2VEEfo)
 - [Beine hoch / Leg Raise](https://www.youtube.com/watch?v=l4kQd9eWclE)
