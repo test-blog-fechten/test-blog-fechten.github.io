@@ -14,6 +14,14 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Transport
 * Sperrung / Opposition
 
+### Wo Klinge benutzen
+
+* Mitte auf Mitte.
+* Mit der Stärke
+* Mit der Schwäche
+* Auf die Schwäche
+* ...
+
 ### Klinge vermeiden
 * Umgehung Kreisen https://www.youtube.com/watch?v=63fwmKo-W8E
 * Coupe
