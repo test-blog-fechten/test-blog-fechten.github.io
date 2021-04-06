@@ -25,18 +25,19 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * [Rapido](https://www.youtube.com/watch?v=cgwBcPsM1Y4&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=11)
 * [Ausfall](https://www.youtube.com/watch?v=J_l8AUxaekI&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10)
 * [Balestra Lunge](https://www.youtube.com/watch?v=4Q2esRhDfGY)
-* [Pantiando](https://www.youtube.com/watch?v=4Q2esRhDfGY))
+* [Pantiando]()
 * Verschiede Rhythmen, z.B. Geschwindigkeitswechsel wenn hinteres/vorderes Bein aufsetzt.  
 * Appell 
-* Sprung vor Ausfall
-* Appell Ausfall https://www.youtube.com/watch?v=LXGPLWjxsqQ
+* Sprung vor Ausfall 
+* [Appell Ausfall](https://www.youtube.com/watch?v=LXGPLWjxsqQ)
 * Kreuzschritte nach hinten / z.B. nach Meidbewegung des Oberkoerpers.
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
 * Kreuzschritt nach vorne / [Flash](https://www.youtube.com/watch?v=PXLeUSS2G_A&list=PLFCACA1090D3E09BA&index=5)
-* Meidbewegung Ducken in die Hocke. / mal ne Parade neun dazu probieren :-) 
-* Meidbewegung In Quartata 
-* Meidbewegung Passata-sotto, 
-* Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
+* Meidbewegung Ducken in die Hocke. / mal ne Parade neun dazu probieren :-)  (Durch mini Sprung einleiten?)
+* Meidbewegung "in Quartata"  Wegdrehen
+* Meidbewegung "Passata-sotto"  Ganz tief ducken und mit der waffenfreien Hand abstützen.
+* Kleine Ausfälle 
+* Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
 * Flunges (oft im Säbel weil kreuzen der Beine verboten) Im Degen auch erfolgreich. -> Paolo Pizzo (ITA)
 
 ### Beinarbeit mit Armstreckung  
