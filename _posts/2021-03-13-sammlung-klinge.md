@@ -20,15 +20,13 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Zurück und wieder vor.
 * Bingo
 
-
+[Angriff mit Eisen nehmen](https://www.youtube.com/watch?v=7ArF8WPW4rA)
 
 Einfacher Stoß https://www.youtube.com/watch?v=vV8EWU496Vc
 
 * Aus Point in Line. (Gegner läuft rein)
 * Point in Line mit Beinbewegung 
 * Flash / Treffen und dann Auslaufen.
-* Running Ataks / ähnlich dem Flash aber leichter für den Gegner zu reagieren.
-
-
+* Running Attacks / ähnlich dem Flash aber leichter für den Gegner zu reagieren.
 
 [Stoßkissen](https://www.youtube.com/watch?v=A5ll8aFp_9A)

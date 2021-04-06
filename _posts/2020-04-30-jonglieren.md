@@ -8,7 +8,12 @@ email: ASchockenhoff@fechten-hamm.de
 
 ### Ideen:
 * [Ein Ball Start](https://www.youtube.com/watch?v=SjhMqZf7koQ&list=PLVa2UZHYLSELJ4kcR0gEoXCTn3WshtzdK)
+
 * [Zwei Ball](https://www.youtube.com/watch?v=LKElZZrWeS8&list=PLVa2UZHYLSELJ4kcR0gEoXCTn3WshtzdK&index=2)
+
+* [Alternativ 3 Ball](https://www.youtube.com/watch?v=_c26WC1Hcmc)
+
+  
 
 (8 Jonglierbälle, 8 Been Bags Pyramiden ... Tennisbälle ...) 
 
