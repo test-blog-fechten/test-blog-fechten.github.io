@@ -22,11 +22,11 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 ### Besondere Beinarbeit 
 
 * [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
-* Rapido https://www.youtube.com/watch?v=cgwBcPsM1Y4&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=11
-* Ausfall https://www.youtube.com/watch?v=J_l8AUxaekI&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10
+* [Rapido](https://www.youtube.com/watch?v=cgwBcPsM1Y4&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=11)
+* [Ausfall](https://www.youtube.com/watch?v=J_l8AUxaekI&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10)
 * [Balestra Lunge](https://www.youtube.com/watch?v=4Q2esRhDfGY)
-* Pantiando https://www.youtube.com/watch?v=4Q2esRhDfGY)
-* Verschiede Rhytmen, z.B. Geschwindigkeiswechsel wenn hinteres/vorderes Bein aufsetzt.  
+* [Pantiando](https://www.youtube.com/watch?v=4Q2esRhDfGY))
+* Verschiede Rhythmen, z.B. Geschwindigkeitswechsel wenn hinteres/vorderes Bein aufsetzt.  
 * Appell 
 * Sprung vor Ausfall
 * Appell Ausfall https://www.youtube.com/watch?v=LXGPLWjxsqQ
@@ -37,14 +37,14 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Meidbewegung In Quartata 
 * Meidbewegung Passata-sotto, 
 * Kleine Ausfälle, Ausfall auf der Stelle, Ausfall nach hinten (Sinn?)
-* Flunges (Säbel weil kreuzen der Beine verboten)
+* Flunges (oft im Säbel weil kreuzen der Beine verboten) Im Degen auch erfolgreich. -> Paolo Pizzo (ITA)
 
 ### Beinarbeit mit Armstreckung  
 * Vor dem vorderen Bein
 * Gleichzeitig
 * Nach dem Bein.
 
-### Aktionen duch Beinarbeit
+### Aktionen durch Beinarbeit
 * Vorbereitung Angriff
 * Kurz fallen lassen
 * Distanz(Mensur) Kontrolle
