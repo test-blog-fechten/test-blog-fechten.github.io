@@ -9,7 +9,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 
 ### Klinge 
 * Parade
-* Klingen Schlag / Beat
+* [Klingen Schlag / Beat](https://www.youtube.com/watch?v=b3-k6EgarfE)
 * Bindung / Bindungs Stoß / Filo 
 * Transport
 * Sperrung / Opposition
