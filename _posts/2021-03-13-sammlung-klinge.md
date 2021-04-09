@@ -13,6 +13,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Bindung / Bindungs Stoß / Filo 
 * Transport
 * Sperrung / Opposition
+* [Die Klinge anbieten](https://www.youtube.com/watch?v=1bmLi2gfosk) Finale YASSEN gegen JEAN (bietet an und drückt!)
 
 ### Wo Klinge benutzen
 
@@ -38,3 +39,16 @@ Einfacher Stoß https://www.youtube.com/watch?v=vV8EWU496Vc
 * Running Attacks / ähnlich dem Flash aber leichter für den Gegner zu reagieren.
 
 [Stoßkissen](https://www.youtube.com/watch?v=A5ll8aFp_9A)
+
+### Eigene Seite Aktionen?
+
+* Attack, Recover
+* Attack, Remise
+* Reprise 
+* False Attack Remise
+
+Einfache Angriffe
+
+Simple, indirekt, false
+
+Disengagement, Coupe, zurückziehen und wieder vor (Brocken Time)
