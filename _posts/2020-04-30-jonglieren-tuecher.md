@@ -15,6 +15,6 @@ email: ASchockenhoff@fechten-hamm.de
 
 ### Andere Tücher 
 
-* [Flyper Star](https://www.youtube.com/channel/UC-l1QEcEhAmn_EmpzcjB28A)](https://www.youtube.com/watch?v=wf7Y5xJciko)
+* [Flyper Star](https://www.youtube.com/channel/UC-l1QEcEhAmn_EmpzcjB28A)
 
 * [DapoStar](https://www.youtube.com/channel/UCd2TCI9R8m2qctHFMEykgRw) 
