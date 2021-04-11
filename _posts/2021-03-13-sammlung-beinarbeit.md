@@ -34,6 +34,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 * Kleiner Stabilitäts und Richtungswechsel Sprung nach hastigem zurück weichen. 
 * Kreuzschritt nach vorne / [Flash](https://www.youtube.com/watch?v=PXLeUSS2G_A&list=PLFCACA1090D3E09BA&index=5) [oder](https://www.youtube.com/watch?v=771TCmbu2eA)
 * Meidbewegung Ducken in die Hocke. / mal ne Parade neun dazu probieren :-)  (Durch mini Sprung einleiten?)
+* Meidbewegung Ducken einbeinige Hocke auf dem hinteren Bein. (gesehen Foil Egypt 2021)
 * Meidbewegung "in Quartata"  Wegdrehen
 * Meidbewegung "Passata-sotto"  Ganz tief ducken und mit der waffenfreien Hand abstützen.
 * Kleine Ausfälle 
