@@ -26,3 +26,7 @@ Wir bilden Gruppen mit verschiedenen Übungen immer bis der letzte einen Fehler 
 * Criss Cross Meisterschaft!
 
 [Vorteile Seilspringen engl.](https://www.youtube.com/watch?v=iE6DzOIhYjM)
+
+
+
+[Kraft mit Seil](https://www.youtube.com/watch?v=Nwkq8H_pAek)
