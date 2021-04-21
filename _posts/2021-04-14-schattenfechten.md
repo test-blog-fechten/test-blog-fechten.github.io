@@ -22,4 +22,4 @@ Auch langsam.
 
 Auch mit Augen zu.
 
-Auch mental nur im Geiste. (bevorzugt ältere Fechter) 
+Auch mental nur im Geiste. (bevorzugt ältere Fechtende) 
