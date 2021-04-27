@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sprungfolge dokumentieren
-tags: [Motorik,Beweglichkeit]
+tags: [Motorik]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
