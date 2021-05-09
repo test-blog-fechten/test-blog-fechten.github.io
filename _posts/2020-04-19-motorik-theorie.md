@@ -24,3 +24,10 @@ Unser Training hat zum Ziel, bessere Voraussetzungen für die Lösung unterschie
 
 Kontrolle und Spaß der Fähigkeiten z.B. Einradfahrern oder Salto Rückwärts, Handstand Rad .... Seilspring Show ...
 
+
+
+Brainstorme:
+
+Aussage: Wenn man mit gleichstarken oder etwas besseren Gegnern trainiert verbessert man sich am meisten.
+
+Passt dazu dass man immer an der Kante seiner Motorischen Fähigkeiten trainiert. So wie bei Live-Kinetik behautet wird.
