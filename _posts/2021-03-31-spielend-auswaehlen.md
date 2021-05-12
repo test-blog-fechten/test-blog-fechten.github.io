@@ -15,7 +15,18 @@ email: ASchockenhoff@fechten-hamm.de
 - Mit n Karten arbeiten. Umdrehen.
 - Hinlaufen umdrehen und zurück .... bis alle Karten umgedreht sind. Danach evtl. neue Runde. 
 
+### Art der Übung bestimmen
+
+* Zahl = Liegestütz Bild=Situps Ass=Pause
+
+### Ende der Übung bestimmen
+
+* Kartenspiel / Wenn 4 gleiche Karten gefunden --> Ende
+* Kartenspiel / Wenn 4 Asse ....  gefunden --> Ende
+* Kartenspiel / Wenn alle (4) Herz Karten ....  gefunden --> Ende
+
 ### Merkübungen die die Übung erschweren
+
 - Memory
 - Hinlaufen umdrehen und zurück .... bis alle Karten umgedreht sind.  Reihenfolge merken und richtig auflösen. Falsch zusätzlich ein Runde laufen.
 
