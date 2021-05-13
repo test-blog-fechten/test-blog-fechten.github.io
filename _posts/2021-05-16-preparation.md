@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dehnübung Ausfall
+title: Vorbereiten ( PREPARATION )
 tags: [Fechten,Technik,Theorie]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
