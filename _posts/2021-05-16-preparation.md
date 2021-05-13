@@ -6,13 +6,13 @@ author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
-Wofür Vorbereiten ( PREPARATION )
+Wofür Vorbereiten? ( PREPARATION )
 
 Viele Fechter machen kein bewusste Vorbereitung.
 
 
 
-Wofür kann man die Preparation nutzen. 
+Wofür kann man die Preparation nutzen?
 
 - Um sich einen Zeitvorteil zu verschaffen,
 - um den Gegner seine Aktion zu erschweren,
