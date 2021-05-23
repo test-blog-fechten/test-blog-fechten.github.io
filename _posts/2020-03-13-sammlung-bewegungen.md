@@ -30,6 +30,7 @@ email: ASchockenhoff@fechten-hamm.de
 * Ein Bein / Wechsel nach x
 * landen auf Spitze oder Hacke
 * x Sprünge dann ein hoher Sprung 
+* [Start](https://www.youtube.com/watch?v=29mnTJoYaTU) [oder](https://www.youtube.com/watch?v=GzZjzBm-56k)
 
 ### Arme 
 * Boxen

@@ -50,13 +50,8 @@ email: ASchockenhoff@fechten-hamm.de
 ### Übungen
 
 * Flowersticks 
-
 * Kendama 
-
 * Tellerdrehen 
-
 * [Fechten](https://www.youtube.com/watch?v=ZdtMnzoAsYc) :-)   
-
 * ?? Tennisball am Band und am Flex Stab.
-
-  
+* [Finger auch für Computer](https://www.youtube.com/watch?v=H6y0D_8kRoU)
