@@ -21,7 +21,7 @@ Sammlung erstmal alles was einem einfällt dann schauen was man im Gefecht gebra
 
 ### Besondere Beinarbeit 
 
-* [Halbe Schritte](https://www.youtube.com/watch?v=k6NFXCN3x2Y) mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI)
+*  mit Ausfall. [Im Einsatz](https://www.youtube.com/watch?v=OuoVezQhvEI) [Übungen](https://www.youtube.com/watch?v=PSNSxdhQM1Q)
 * [Rapido](https://www.youtube.com/watch?v=cgwBcPsM1Y4&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=11)
 * [Ausfall](https://www.youtube.com/watch?v=J_l8AUxaekI&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10)
 * [Balestra](https://www.youtube.com/watch?v=TgP_0BQPUbk&list=PLMUuC-couB8gmagAN5s1_r-LGGfnQsCHV&index=10) [Balestra Lunge](https://www.youtube.com/watch?v=4Q2esRhDfGY)
