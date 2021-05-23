@@ -1,0 +1,52 @@
+---
+layout: post
+title: Kreisbewegung der Klinge wie trainieren?
+tags: [Fechten,Motorik]
+author: Andreas Schockenhoff
+email: ASchockenhoff@fechten-hamm.de
+---
+
+
+
+### Kreisbewegungen möglich:
+
+- mit dem Urzeigersinn
+- gegen den Urzeigersinn
+
+### Kreisbewegungen möglich:
+
+- Contre de sixt
+- Contre de Quart
+
+### Wann benötigt?
+
+* Umgehung
+* Parade/Riposte
+* Klinge nehmen 
+* Der Klinge ausweichen.
+
+### Wie ausführen?
+
+* Mit den Fingern
+* Mit dem Handgelenk
+  * Mit Rotation des Handgelenks
+  * Ohne Rotation des Handgelenks
+* Mit dem Arm
+
+
+
+### Halbkreisbewegung
+
+* Second Parade aus der Sixed. (mit Rotation des Handgelenks) 
+
+
+
+### Übungen
+
+* Flowersticks
+* Kendama
+* Tellerdrehen
+
+* Fechten :-)
+
+  
