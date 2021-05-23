@@ -41,6 +41,12 @@ email: ASchockenhoff@fechten-hamm.de
 
 
 
+### Vorbereitung für Flick
+
+* Mal darüber nachdenken.
+
+  
+
 ### Übungen
 
 * Flowersticks
