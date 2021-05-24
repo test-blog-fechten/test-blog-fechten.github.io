@@ -40,7 +40,9 @@ Einfach mit bunten Pylonen und Trainer ruft die Farben.
 
 Trainer ersetzen durch Handy was in den Farben leuchtet unterstützt werden. (Kleine App nötig!)
 
-[Eine App die so etwas ermöglicht!](https://www.switchedontrainingapp.com/sports)
+[Eine App die so etwas ermöglicht!](https://www.switchedontrainingapp.com/sports) (Könnte auch teuer sein.)
+
+[Damit könnte man einfach selber starten!](https://asc4asc.github.io/footwork/S1/index.html)
 
 
 
