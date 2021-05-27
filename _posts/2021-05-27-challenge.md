@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fähigkeiten Kondition / Koordination
+title: Challenge
 tags: [Theorie]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
