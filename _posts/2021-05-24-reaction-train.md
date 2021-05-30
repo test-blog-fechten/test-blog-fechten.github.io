@@ -42,7 +42,7 @@ Trainer ersetzen durch Handy was in den Farben leuchtet unterstützt werden. (Kl
 
 [Eine App die so etwas ermöglicht!](https://www.switchedontrainingapp.com/sports) (Könnte auch teuer sein.)
 
-[Damit könnte man einfach selber starten!](https://github.com/asc4asc/colorchange)
+[Damit könnte man einfach selber starten!](https://asc4asc.github.io/colorchange/)
 
 
 
