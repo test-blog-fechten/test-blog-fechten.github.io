@@ -10,4 +10,4 @@ email: ASchockenhoff@fechten-hamm.de
 * Zeit die man für einen km braucht z.B. 5Min 33 für 1km
 * Geschwindigkeit in m/s oder km/h 
 * Copper Test 12min laufen z.B. 2400m sind dann ein Ergebnis [Copper Test](https://de.wikipedia.org/wiki/Cooper-Test) 
-* [Shuttle-Run-Tests](https://www.soccerdrills.de/magazin/athletik-fitness/artikel/shuttle-run-test-mit-mp3/) auch [Beep (Bleep) Test genannt](https://www.youtube.com/watch?v=sP8tvsjR2dQ&list=PL0yQ4tnvBHK320CJ9FYL6t8oEgU4g52T8).
+* [Shuttle-Run-Tests](https://www.soccerdrills.de/magazin/athletik-fitness/artikel/shuttle-run-test-mit-mp3/) auch [Beep (Bleep) Test genannt](https://www.youtube.com/watch?v=sP8tvsjR2dQ&list=PL0yQ4tnvBHK320CJ9FYL6t8oEgU4g52T8). [Tabelle](https://www.soccerdrills.de/fileadmin/media/artikel/shuttle-run-zeiten-meter.pdf)
