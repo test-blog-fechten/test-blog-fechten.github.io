@@ -8,17 +8,17 @@ email: ASchockenhoff@fechten-hamm.de
 
 
 
-Sally up down
+[Sally up down](https://www.youtube.com/watch?v=bql6sIU2A7k)
 
 [roxane](https://www.youtube.com/watch?v=b8uCbUUkWic)
 
 One more Time
 
-Thunder (AC/DC)
+[Thunder](https://www.youtube.com/watch?v=ffQ4Gx87nIM)
 
 Beat it (M. Jackson)
 
-[We will rock you](https://www.youtube.com/watch?v=9HtRyc3ixrc)
+[We will rock you](https://www.youtube.com/watch?v=r7Es9YSgWIc)
 
 [Plank](https://www.youtube.com/watch?v=x_YFkVSp34s)
 
