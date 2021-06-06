@@ -46,11 +46,17 @@ Trainer ersetzen durch Handy was in den Farben leuchtet unterstützt werden. (Kl
 
 
 
-Mit Tennisbällen auf den Pylonen und umsetzen z.B. von Blau auf Rot erweitern.......
+Mit Tennisbällen auf den Pylonen und umsetzen. Also holen von alten ( vorher gelegt ) und setzen auch die neue Farbe.
 
 
 
 Zusätzlich 4 Pylonen in der Mitte Tennisball wird nach außen gebracht wenn da oder geholt. 
+
+
+
+
+
+[Varianten](https://www.youtube.com/watch?v=a2sCgSIOFIg)
 
 
 
