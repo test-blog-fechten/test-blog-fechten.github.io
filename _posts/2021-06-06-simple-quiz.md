@@ -8,7 +8,7 @@ email: ASchockenhoff@fechten-hamm.de
 
 
 
-<SELECT><OPTION>Answer<OPTION>c) FIE</SELECT><P>
+<SELECT><OPTION>Answer<OPTION>3) FIE
 
 
 
