@@ -8,12 +8,11 @@ email: ASchockenhoff@fechten-hamm.de
 
 
 
-<SELECT><OPTION>Answer<OPTION>3) FIE
-
-
 
 Wie heißt die internationale Fechtvereinigung?
 
 1. FILA
 2. FIFA
 3. FIE
+
+<SELECT><OPTION>Answer<OPTION>3) FIE
