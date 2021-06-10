@@ -12,6 +12,6 @@ Dafür muss man den echten Datensatz erzeugen!
 
 [Hier Verknüpfen mit Athlet+](https://docs.ophardt.online/index.php/Online:Benutzer/MeinenBenutzerBearbeiten)
 
-[Hier wersen die wirklich benötigten Daten eingetragen](https://docs.ophardt.online/index.php/Online:Athlet/Meine_Daten)
+[Hier werden die wirklich benötigten Daten eingetragen](https://docs.ophardt.online/index.php/Online:Athlet/Meine_Daten)
 
 Danach hat bekommt man eine eindeutige ID wenn man diese dem Vereinsadmin gibt kann der den Datensatz in den Vereinsdatensatz eingliedern.
