@@ -14,4 +14,4 @@ Dafür muss man den echten Datensatz erzeugen!
 
 [Hier werden die wirklich benötigten Daten eingetragen](https://docs.ophardt.online/index.php/Online:Athlet/Meine_Daten)
 
-Danach hat bekommt man eine eindeutige ID wenn man diese dem Vereinsadmin gibt kann der den Datensatz in den Vereinsdatensatz eingliedern.
+Danach hat man eine eindeutige ID wenn man diese dem Vereinsadmin geben kann der den Datensatz in den Vereinsdatensatz eingliedern. Indem er den Athleten in seinen Verein übernimmt.
