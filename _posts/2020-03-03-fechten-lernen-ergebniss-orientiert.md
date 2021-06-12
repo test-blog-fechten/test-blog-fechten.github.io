@@ -6,6 +6,8 @@ title: Fechten lernen / Ergebnis orientiert
 #### Ergebnis orientiert
 * Erklären was man erreichen will, den Weg dahin nur wenn notwendig skizieren.
 
+Den Fechter einfaches Fechten beibringen also ohne Klinge .... damit er Mensur und Moment erfahren kann .
+
 #### Aufgabe stellen 
 * Fechter löst die Aufgabe. 
  * Beispiel: [Video](https://www.youtube.com/watch?v=O3npZENHiBQ&t=326s)
