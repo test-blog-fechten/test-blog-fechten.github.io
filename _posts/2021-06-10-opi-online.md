@@ -6,6 +6,8 @@ author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
 ---
 
+[Ophardt Online](https://fencing.ophardt.online/en/home)
+
 Man legt erst einen Benutzer an dieser ist für den Zugang und Pflege des Systems da. Hat aber noch nichts mit dem Sportler... als Turnier Teilnehmer ... zu tun.
 
 Dafür muss man den echten Datensatz erzeugen!
