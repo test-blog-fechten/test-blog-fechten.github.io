@@ -32,4 +32,4 @@ Dafür muss man den echten Datensatz erzeugen!
 
 Danach hat man eine eindeutige ID wenn man diese mit Namen und Vornamen dem Vereins Admin geben kann der den Datensatz in den Vereinsdatensatz eingliedern. Indem er den Athleten in seinen Verein übernimmt. 
 
-Info für den Admin: Hierbei muss der Datensatz noch freigegeben sein. Sowie der Nachname muss mit Großbuchstaben geschrieben werden.
+Info für den Admin: Hierbei muss der Datensatz noch freigegeben sein (Biographie anzeigen). Sowie der Nachname muss mit Großbuchstaben geschrieben werden.
