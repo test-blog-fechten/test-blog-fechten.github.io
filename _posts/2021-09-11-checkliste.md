@@ -8,7 +8,7 @@ email: ASchockenhoff@fechten-hamm.de
 <!--- Tags Ideen Degen,Checklisten --->
 
 * Maske, Jacke, Plastron, Fechthose siehe [DFB Vorschriften](http://www.fechten.org/fileadmin/user_upload/Ausruestungsvorschriften_DFB__ab_01.08.2020.pdf) (2011 ist 2021 U11)
-* Turnschuhe, Fechtsocken, Handschuh, Brustschutz
+* Turnschuhe, Fechtsocken, Handschuh, Brustschutz (Mädchen muss, Jungen kann benutzt werden.)
 * Trainingshose, Trainingsjacken
 * Getränke, Essen
 * Mindestens 2 Kabel, 2 Waffen (geprüft)
