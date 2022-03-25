@@ -13,8 +13,6 @@ tags: [Info]
 
 [Turniere nur für U13](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=&days-past=1&days-future=60&add-region[0]=NR&ageclass[0]=45&discipline[0]=E)
 
-[Ein Turnier in Braunschweig](https://fencing.ophardt.online/de/widget/event/21965/39)
-
 [Komplett](http://www.fechten.org/kalender/?no_cache=1)
 
 
