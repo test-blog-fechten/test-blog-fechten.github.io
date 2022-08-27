@@ -5,6 +5,8 @@ tags: [Info]
 ---
 ### Achtung Test!
 
+[Turniere nur für U17](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=WE&days-past=1&days-future=100&add-region[0]=NR&ageclass[0]=30&discipline[0]=E)
+
 [Mögliche Turniere für U15](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=&days-past=1&days-future=100&add-region[0]=NR&ageclass[0]=35&ageclass[1]=30&discipline[0]=E)
 
 [Turniere nur für U15](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=&days-past=1&days-future=100&add-region[0]=NR&ageclass[0]=35&discipline[0]=E)
