@@ -22,3 +22,5 @@ tags: [Info]
 [Komplett](http://www.fechten.org/kalender/?no_cache=1)
 
 [Trainer über RFB](https://www.rfeb.de/index.php/2016-04-13-16-59-11/trainerausbildung)
+
+[Kampfrichter über RFB](https://www.rfeb.de/index.php/2016-04-13-16-59-11/termine-kampfrichterpruefung)
