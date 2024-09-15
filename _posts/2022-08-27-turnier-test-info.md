@@ -18,7 +18,3 @@ Begrenzt auf für NRW relevante Turniere
 [Turniere nur für U15](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=&days-past=1&days-future=100&add-region[0]=NR&ageclass[0]=35&discipline[0]=E)
 
 [Mögliche Turniere für U17](https://fencing.ophardt.online/de/widget/calendar/GER/WE?nation=GER&region=WE&days-past=1&days-future=100&add-region[0]=NR&ageclass[0]=30&ageclass[1]=112&ageclass[2]=20&ageclass[3]=15&ageclass[4]=10&discipline[0]=E)
-
-[Trainer über RFB](https://www.rfeb.de/index.php/2016-04-13-16-59-11/trainerausbildung)
-
-[Kampfrichter über RFB](https://www.rfeb.de/index.php/2016-04-13-16-59-11/termine-kampfrichterpruefung)
